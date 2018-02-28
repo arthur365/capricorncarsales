@@ -154,7 +154,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.7"
           },
-          "text": "<p><b><i>Owner Mr Glyn Thomas at Capricorn car sales &nbsp;in Deeside Flintshire North Wales//Copyright &nbsp;apply (c) 2017 Webpage Admin Arthur Cross on behalf &nbsp;Capricorn Car Sale's in Deeside, Small business Website Built Here.</i></b></p><p><b><a href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\">www.capricorncarsales.co.uk</a>&nbsp; //<i>call sales 01244-818992</i></b></p>"
+          "text": "<p><b><i>Owner Mr Glyn Thomas at Capricorn car sales &nbsp;in Deeside Flintshire North Wales//Copyright &nbsp;apply (c) 2017 <a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Webpage Admin Arthur Cross </a>on behalf &nbsp;Capricorn Car Sale's in Deeside, Small business Website Built Here.</i></b></p><p><b><a href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\">www.capricorncarsales.co.uk</a>&nbsp; //<i>call sales 01244-818992</i></b></p>"
         },
         {
           "_inherit": "gallery1",
