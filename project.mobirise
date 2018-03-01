@@ -345,8 +345,9 @@
               "src": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "https://arthur365.github.io/capricorncarsales/HOME.html",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
