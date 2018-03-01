@@ -83,7 +83,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "5",
-            "paddingBottom": "3",
+            "paddingBottom": "5",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1329.jpg",
             "parallax": true,
@@ -97,7 +97,7 @@
             "overlayColor": "#28324e",
             "overlayOpacity": 0.5
           },
-          "title": "Welcome to Capricorn car sale's in Deeside North Wales",
+          "title": "DEMO ONLY<br>Welcome to Capricorn car sale's in Deeside North Wales",
           "text": "<ol><li>Pre owned used low millage car's for sale in Deeside. </li></ol><h4>PHONE CAR SALES-01244-818-992</h4>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -154,7 +154,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.7"
           },
-          "text": "<p><b><i>Owner Mr Glyn Thomas at Capricorn car sales &nbsp;in Deeside Flintshire North Wales//Copyright &nbsp;apply (c) 2017 <a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Webpage Admin Arthur Cross </a>on behalf &nbsp;Capricorn Car Sale's in Deeside, Small business Website Built Here.</i></b></p><p><b><a href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\">www.capricorncarsales.co.uk</a>&nbsp; //<i>call sales 01244-818992</i></b></p>"
+          "text": "<p><b><i>Owner Mr Glyn Thomas at Capricorn car sales &nbsp;in Deeside Flintshire North Wales//Copyright &nbsp;apply (c) 2017 <a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Webpage Admin Arthur Cross </a>on behalf &nbsp;Capricorn Car Sale's in Deeside, Small business Website Built Here.</i></b></p><p><b>&nbsp; //<i>call sales 0</i></b></p>"
         },
         {
           "_inherit": "gallery1",
@@ -355,7 +355,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">capricorncars in Deeside N.Wales</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">capricorncars in Deeside N.Wales &nbsp;&nbsp;</a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"HOME\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">IN STOCK NOW</a></li>"
         },
         {
@@ -390,8 +390,8 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
-            "imageSize": "65",
+            "inverse": true,
+            "imageSize": "44",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -411,7 +411,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/capture-office-at-cap-776x576.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
               "link": "http://www.capricorncars.co.uk/siteimages/img_3009.jpg",
               "alt": "",
               "title": ""
@@ -429,8 +429,8 @@
             }
           },
           "title": "<i>Opening Hours</i>",
-          "text": "Monday       09:30 AM to 05:30 PM<br>Tuesday      09:30 AM to 05:30 PM<br>Wednesday    09:30 AM to 05:30 PM<br>Thursday     09:30 AM to 05:30 PM<br>Friday       09:30 AM to 05:30 PM<br>Saturday     10:30 AM to 04:00 PM<br>Sunday       11:30 AM to 03:00 PM<br>AFTER HOURS :APOINTMENTS ARRANGED,<br>Our Website address,&nbsp;<a href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\" class=\"text-warning\">www.capricorncars.co.uk</a><br>       *     PHONE CAR SALES    *<br>              01244-818992 <br>          Mobile  07859 069461<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://arthur365.github.io/businesswebsites/contact%20us.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-shopping-cart mbr-iconfont mbr-iconfont-btn\"></span>Capricorn Car Sales eBay Show Room&nbsp;</a>  "
+          "text": "Monday       09:30 AM to 05:30 PM<br>Tuesday      09:30 AM to 05:30 PM<br>Wednesday    09:30 AM to 05:30 PM<br>Thursday     09:30 AM to 05:30 PM<br>Friday       09:30 AM to 05:30 PM<br>Saturday     10:30 AM to 04:00 PM<br>Sunday       11:30 AM to 03:00 PM<br>AFTER HOURS :APOINTMENTS ARRANGED,<br>Our Website address,&nbsp;<a href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" target=\"_blank\" class=\"text-warning\">www.capricorncars.co.uk</a><br>       *     PHONE CAR SALES    *<br><br>          Mobile&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://arthur365.github.io/businesswebsites/contact%20us.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Show Room&nbsp;</a>  "
         },
         {
           "_tags": [
@@ -499,21 +499,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Submit your message</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-10",
-          "_params": {
-            "googleMap": {
-              "address": "Capricorn car sales\nChurch Street ,Connahs Quay, \nDeeside, \nFlintshire ,\nCH5-4AR",
-              "placeId": "ChIJYaT77WLaekgRRp4eztF7-c8",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          }
         },
         {
           "_styles": {
