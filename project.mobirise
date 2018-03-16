@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 57,
+    "uniqCompNum": 58,
     "versionPublish": "4.6.3",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
@@ -520,7 +520,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "NEED TO BUY A LOW MILLAGE CAR <br>SHARE THIS PAGE! &nbsp;",
+          "text": "NEED TO BUY A LOW MILLAGE CAR ?<br>SHARE THIS PAGE! OR<br>CALL 01244-818-992<br>MOBILE 0785-9069-481&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -528,7 +528,8 @@
           "_anchor": "social-buttons1-1k",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#2969b0"
+              "color": "#2969b0",
+              "font-size": "25px"
             }
           }
         }
