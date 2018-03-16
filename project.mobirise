@@ -22,11 +22,12 @@
       },
       "additionalSetColors": [
         "#660100",
-        "#1c1010"
+        "#1c1010",
+        "#011831"
       ]
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 55,
+    "uniqCompNum": 57,
     "versionPublish": "4.6.3",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
@@ -502,34 +503,34 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Submit your message</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px",
-              "color": "#cccccc"
-            }
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
           },
+          "text": "SHARE THIS PAGE!",
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-1b",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1144.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0"
-          },
-          "text": "<a href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\" class=\"text-success\">www.capricorncars.co.uk</a>&nbsp;<br>Capricorn Car Sale's in Deeside North Wales,<div>Finance available on request &nbsp;</div><div>Follow Us</div>",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-googleplus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://twitter.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-tumblr mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(39, 170, 224);\"></span></a>   "
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-1k",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#2969b0"
+            }
+          }
         }
       ]
     }
