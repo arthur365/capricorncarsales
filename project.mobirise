@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "HOME",
-    "name": "1 Capricorn Car Sale's in Deeside.",
+    "name": "Capricorn Car Sale's ",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -34,14 +34,16 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "HOME": {
       "settings": {
         "main": true,
         "title": "HOME ",
-        "meta_descr": "capricorn car sales, Deeside, cars for sale, low millage cars for sale,",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -211,7 +213,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.7"
           },
-          "text": "<p><b><i>Owner Mr Glyn Thomas at Capricorn car sales &nbsp;in Deeside Flintshire North Wales//Copyright &nbsp;apply (c) 2017 <a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Webpage Admin Arthur Cross </a>on behalf &nbsp;Capricorn Car Sale's in Deeside, Small business Website Built Here.</i></b></p><p><b>&nbsp; //<i>call sales 0</i></b></p>"
+          "text": "<p><b><i>Owner Mr Glyn Thomas at Capricorn car sales &nbsp;in Deeside Flintshire North Wales//Copyright &nbsp;apply (c) 2018&nbsp;<a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Webpage Admin Arthur365 &nbsp;</a>on behalf &nbsp;</i></b></p><p><b><i>Capricorn Car Sale's in Deeside, Flinshire Small business Website <a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Built Here</a></i></b></p>"
         },
         {
           "_inherit": "gallery1",
@@ -457,7 +459,7 @@
           "form": {
             "action": "cross-a@hotmail.co.uk",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Capricorn car sales. Thanks for filling out form!"
             },
             "fields": {
               "name": {
@@ -501,7 +503,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "NEED TO BUY A LOW MILLAGE CAR ?<br>SHARE THIS PAGE! OR<br><br>CALL GLYN ON 01244-818-992<br><br>MOBILE:GLYN &nbsp;0785-9069-481<br>Be the first to leave your facebook comment &nbsp;below.",
+          "text": "NEED TO BUY A LOW MILLAGE CAR ?SHARE THIS PAGE! OR<br><br>CALL GLYN ON 01244-818-992<br><br>MOBILE:GLYN &nbsp;0785-9069-481<br>Be the first to leave your facebook comment &nbsp;below.",
           "_tags": [
             "Theme"
           ],
