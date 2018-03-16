@@ -18,16 +18,18 @@
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
-        "isRtl": false
+        "isRtl": true
       },
       "additionalSetColors": [
         "#660100",
         "#1c1010",
-        "#011831"
+        "#011831",
+        "#f90906",
+        "#b90200"
       ]
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 59,
+    "uniqCompNum": 60,
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
@@ -49,45 +51,16 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
-            },
-            ".lead P": {
-              "color": "#f3c649",
-              "text-align": "left"
-            },
-            ".lead B": {
-              "color": "#fac51c",
-              "font-size": "20px"
-            },
-            ".lead": {
-              "color": "#ffffff",
-              "font-size": "20px"
-            },
-            ".lead PRE": {
-              "color": "#f40f0c",
-              "font-size": "48px",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
-            },
-            ".lead UL": {
-              "text-align": "right"
-            },
-            ".lead H4": {
-              "text-align": "center"
             }
           },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-x",
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButton": false,
             "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1329.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
@@ -96,12 +69,17 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#222",
+            "overlayOpacity": "0.3"
           },
-          "title": "Welcome to Capricorn car sale's in Deeside North Wales",
-          "text": "<ol><li>Pre owned used low millage car's for sale in Deeside. </li></ol><h4>PHONE CAR SALES-</h4><h4>01244-818-992</h4><h4>Finance avabile .</h4>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "title": "&nbsp;Welcome to Capricorn car sales in <br>Deeside North Wales",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1n"
         },
         {
           "_styles": {
@@ -375,13 +353,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#860100"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#aa0200!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#b90200"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -408,8 +386,8 @@
             "hideButtons": false,
             "sticky": true,
             "collapsed": false,
-            "transparent": false,
-            "bgColor": "#000000",
+            "transparent": true,
+            "bgColor": "#b90200",
             "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#ffffff",
