@@ -455,6 +455,24 @@ h6,
 #content5-g p {
   color: #fff;
 }
+#msg-box5-y .btn {
+  font-size: 18px;
+  font-family: 'Oswald', sans-serif;
+}
+#msg-box5-y SPAN {
+  font-family: 'PT Serif', serif;
+  font-size: 14px;
+}
+#msg-box5-y P {
+  color: #000000;
+  font-size: 16px;
+}
+#msg-box5-y H3 {
+  color: #ffffff;
+}
+#msg-box5-y I {
+  color: #b8312f;
+}
 #footer1-2 P {
   text-align: center;
   font-size: 14px;
@@ -528,24 +546,6 @@ h6,
 }
 #ext_menu-u .btn {
   font-size: 13px;
-}
-#msg-box5-y .btn {
-  font-size: 18px;
-  font-family: 'Oswald', sans-serif;
-}
-#msg-box5-y SPAN {
-  font-family: 'PT Serif', serif;
-  font-size: 14px;
-}
-#msg-box5-y P {
-  color: #ffffff;
-  font-size: 22px;
-}
-#msg-box5-y H3 {
-  color: #ffffff;
-}
-#msg-box5-y I {
-  color: #c1c1c1;
 }
 #form1-12 .form-control-label {
   color: #ffffff;
