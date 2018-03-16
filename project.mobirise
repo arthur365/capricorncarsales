@@ -84,8 +84,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1329.jpg",
             "parallax": true,
@@ -97,10 +97,10 @@
             },
             "overlay": true,
             "overlayColor": "#28324e",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.5"
           },
           "title": "Welcome to Capricorn car sale's in Deeside North Wales",
-          "text": "<ol><li>Pre owned used low millage car's for sale in Deeside. </li></ol><h4>PHONE CAR SALES-01244-818-992</h4>",
+          "text": "<ol><li>Pre owned used low millage car's for sale in Deeside. </li></ol><h4>PHONE CAR SALES-</h4><h4>01244-818-992</h4><h4>Finance avabile .</h4>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -464,10 +464,10 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1329.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
