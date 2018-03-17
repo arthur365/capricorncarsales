@@ -1,9 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+
 
 
 
@@ -457,6 +459,11 @@ h6,
 }
 #msg-box5-y I {
   color: #b8312f;
+}
+#content1-21 P {
+  text-align: left;
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
 }
 #footer1-2 P {
   text-align: center;

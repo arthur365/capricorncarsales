@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 73,
+    "uniqCompNum": 74,
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
@@ -196,6 +196,27 @@
           "title": "<i>Opening Hours</i>",
           "text": "Monday       09:30 AM to 05:30 PM<br>Tuesday      09:30 AM to 05:30 PM<br>Wednesday    09:30 AM to 05:30 PM<br>Thursday     09:30 AM to 05:30 PM<br>Friday       09:30 AM to 05:30 PM<br>Saturday     10:30 AM to 04:00 PM<br>Sunday       11:30 AM to 03:00 PM<br><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br>Please click or tap tab below to view all our cars in stock now<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Capricorn car sales &nbsp;eBay Show Room&nbsp;</a>  "
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#660100"
+          },
+          "text": "<p>&nbsp;Capricorn car sales we are proud to have helped 1000's of customers over the years get in to their new used car quickly, easily and hassle free\n</p><p>We are EXPERTS in Car finance, Prime Low Rates deals if you have never experienced any credit issues. Deals done within the hour. If you have &nbsp;been unfortunate&nbsp;<span style=\"font-size: 1.07rem;\">enough to have experienced credit issues, have poor credit or have a Poor Credit file we are proud to have helped 100's of customers over the years get into a new &nbsp;</span><span style=\"font-size: 1.07rem;\">used car. We have over 30 car's physically in stock to choose from, massive choice, massive savings, and the best finance deals&nbsp;</span><span style=\"font-size: 1.07rem;\">available. Low Deposit's available or why not use your current car in part exchange to help fund your new vehicle? Finance&nbsp;</span></p><p>available from as little as £20 A week please contact us today</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-21",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
+            }
+          }
         },
         {
           "_name": "footer1",
@@ -744,7 +765,7 @@
             "bgColor": "#fff"
           },
           "title": "<br>Capricorn Premier used car sales company, About us",
-          "meta": "<br>Premier used car sales company My name is Glyn Thomas and my role is to ensure we are delivering you the highest level of customer service, and \n<br>I will be your point of contact  at Capricorn car sales, we have a great range of offers on \n<br>at the moment, and I am sure we will be able to find something that \n<br>is suitable for you. Finance available, on request please call car sales on 01244-818992 Your local show room shop \n<br>window for your next new used low millage car part ex welcome.\n<br>At Capricorn car sales we appreciate and understand the importance of your enquiry If you do require any additional \n<br>information please contact me directly, on phone number above and ask for Glyn or Danny  thank you.\n<br>The internet is an incredible mechanism, isn't it? To think that just over a decade ago, email and the internet didn't \n<br>really feature in our daily lives! Selling a used car in the 1990's involved traipsing around your local car dealers, \n<br>begging the attention of a half-interested used car sales person! And, for many who don't know about capricorncars.co.uk, \n<br>selling a used car still does involve such. But for those who know about us, it's just a case of switching on their computer, \n<br>visiting the capricorncars.co.uk- website, and entering your car details. The rest is taken care by us - we buy used cars online, \n<br>for cash As one of our competitors says - one click and it's gone! So, if you have a friend or know anyone\n<br>who is thinking of selling or buying a used car, please direct them to our website www.capricorncars.co.uk If they aren't a \n<br>friend now, they soon will be!\"capricorncars.co.uk used car buyers throughout the U.K<br><br><b>Capricorn Car sales in Deeside is a small family run business in Flintshire, Deeside,\n</b><br>We are a used car dealer in North Wales stocking a wide range of second hand low mileage used cars, Capricorn Car Sales Deeside,  Call 01244-818992\n<br> \n<br>At Capricorn cars we are proud to have helped 1000's of customers over the years get in to their new used car quickly, easily and hassle free. \n<br>We are EXPERTS in Car finance, Prime Low Rates deals if you have never experienced any credit issues. Deals done within the hour. If you have been unfortunate enough to have experienced credit issues, have poor credit or have a Poor Credit file we are proud to have helped 100's of customers over the years get into a new used car. We have over 30 car's physically in stock to choose from, massive choice, massive savings, and the best finance deals available. Low Deposit's available or why not use your current car in part exchange to help fund your new vehicle? Finance available from as little as £20 A week please contact us today.<br>",
+          "meta": "<br>Premier used car sales company My name is Glyn Thomas and my role is to ensure we are delivering you the highest level of customer service, and \n<br>I will be your point of contact  at Capricorn car sales, we have a great range of offers on \n<br>at the moment, and I am sure we will be able to find something that \n<br>is suitable for you. Finance available, on request please call car sales on 01244-818992 Your local show room shop \n<br>window for your next new used low millage car part ex welcome.\n<br>At Capricorn car sales we appreciate and understand the importance of your enquiry If you do require any additional \n<br>information please contact me directly, on phone number above and ask for Glyn or Danny  thank you<br>&nbsp;<br>The internet is an incredible mechanism, isn't it? To think that just over a decade ago, email and the internet didn't \n<br>really feature in our daily lives! Selling a used car in the 1990's involved traipsing around your local car dealers, \n<br>begging the attention of a half-interested used car sales person! And, for many who don't know about capricorncars.co.uk, \n<br>selling a used car still does involve such. But for those who know about us, it's just a case of switching on their computer, \n<br>visiting the capricorncars.co.uk- website, and entering your car details. The rest is taken care by us - we buy used cars online, \n<br>for cash As one of our competitors says - one click and it's gone! So, if you have a friend or know anyone\n<br>who is thinking of selling or buying a used car, please direct them to our website www.capricorncars.co.uk If they aren't a \n<br>friend now, they soon will be!\"capricorncars.co.uk used car buyers throughout the U.K<br><br><b>Capricorn Car sales in Deeside is a small family run business in Flintshire, Deeside,\n</b><br>We are a used car dealer in North Wales stocking a wide range of second hand low mileage used cars, Capricorn Car Sales Deeside, <br> Call 01244-818992\n<br>",
           "_tags": [
             "Theme"
           ],
