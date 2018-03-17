@@ -251,8 +251,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-cap-132x101-132x101.jpg",
-                "image": "@PROJECT_PATH@/assets/images/logo-cap-132x101.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554-800x554-800x554-800x554.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554-800x554-800x554.jpg",
                 "caption": "SOLD",
                 "active": true,
                 "alt": ""
@@ -262,70 +262,77 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ff-2000x1498-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ff-2000x1498.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554.jpg",
                 "caption": "&nbsp;SOLD",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/fist-2000x1498-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/fist-2000x1498.jpg",
-                "caption": "SOLD",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+                "caption": "For sale",
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ew-2000x1498-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ew-2000x1498.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554.jpg",
                 "caption": "&nbsp;SOLD",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Beautiful",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rg-2000x1498-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rg-2000x1498.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554-800x554-800x554.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554-800x554.jpg",
                 "caption": "&nbsp;SOLD",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gh-2000x1498-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gh-2000x1498.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1385.jpg",
                 "caption": "&nbsp;SOLD",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/s-l1600-1-2000x1498-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/s-l1600-1-2000x1498.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1385.jpg",
                 "caption": "&nbsp;SOLD",
-                "active": false
+                "active": false,
+                "alt": ""
               },
               {
                 "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dg-2000x1498-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dg-2000x1498.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554-800x554.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554.jpg",
                 "caption": "&nbsp;SOLD",
-                "active": false
+                "active": false,
+                "alt": ""
               }
             ]
           },
