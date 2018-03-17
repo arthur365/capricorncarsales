@@ -479,11 +479,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-u .link {
-  font-size: 0.8rem;
+  font-size: 1.15rem;
 }
 #ext_menu-u .dropdown-item,
 #ext_menu-u .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 1.245rem;
 }
 #ext_menu-u .link:hover,
 #ext_menu-u .dropdown-item:hover,
@@ -541,4 +541,76 @@ h6,
 #social-buttons1-1k .mbr-section-title {
   color: #2969b0;
   font-size: 25px;
+}
+#footer1-1o P {
+  text-align: center;
+  font-size: 14px;
+}
+#ext_menu-1p .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1p .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-1p .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-1p .close-icon::before,
+#ext_menu-1p .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-1p .link,
+#ext_menu-1p .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-1p .link {
+  font-size: 3.25rem;
+}
+#ext_menu-1p .dropdown-item,
+#ext_menu-1p .nav-dropdown-sm .link {
+  font-size: 3.520rem;
+}
+#ext_menu-1p .link:hover,
+#ext_menu-1p .dropdown-item:hover,
+#ext_menu-1p .link:focus,
+#ext_menu-1p .dropdown-item:focus {
+  color: #2969b0;
+}
+#ext_menu-1p .link[aria-expanded="true"],
+#ext_menu-1p .dropdown-menu {
+  background: #860100;
+}
+#ext_menu-1p .nav-dropdown-sm .link:focus,
+#ext_menu-1p .nav-dropdown-sm .link:hover,
+#ext_menu-1p .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1p .nav-dropdown-sm .dropdown-item:hover {
+  background: #aa0200!important;
+}
+#ext_menu-1p .navbar,
+#ext_menu-1p .nav-dropdown-sm,
+#ext_menu-1p .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1p .nav-dropdown-sm .dropdown-menu {
+  background: #b90200;
+}
+#ext_menu-1p .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-1p .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1p .bg-color.transparent.opened .link:hover,
+#ext_menu-1p .bg-color.transparent.opened .link:focus {
+  color: #2969b0;
+}
+#ext_menu-1p .link[aria-expanded="true"],
+#ext_menu-1p .dropdown-item[aria-expanded="true"] {
+  color: #2969b0!important;
+}
+#ext_menu-1p .btn {
+  font-size: 13px;
+}
+#header3-1q .mbr-section-title,
+#header3-1q .mbr-section-subtitle {
+  text-align: center;
 }
