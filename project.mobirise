@@ -67,8 +67,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "3",
-            "paddingBottom": "4",
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
             "parallax": false,
@@ -80,9 +80,9 @@
             },
             "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": "0.1"
+            "overlayOpacity": "0.3"
           },
-          "title": "&nbsp;<br>WELCOME TO CAPRICORN QUALITY USED CAR  \n<div>SALES IN DEESIDE, NORTH WALES \n</div><div>Flintshire's Premier used car sales company</div>",
+          "title": "&nbsp;<br><br>WELCOME TO CAPRICORN QUALITY USED CAR  \n<div>SALES IN DEESIDE, NORTH WALES</div><br><div> \n</div><div>Flintshire's Premier used car sales company</div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
