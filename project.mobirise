@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "name": "Capricorn Car Sale's ",
     "theme": {
       "name": "mobirise3",
@@ -745,7 +745,10 @@
             "bgColor": "#fff",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/KekV_Y_cLG8?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=KekV_Y_cLG8",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#000",
