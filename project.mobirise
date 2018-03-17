@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "HOME",
     "name": "Capricorn Car Sale's ",
     "theme": {
       "name": "mobirise3",
@@ -459,7 +459,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
+          "title": "<span style=\"font-weight: normal;\">CONTACT CAPRICORN CAR SALES FORM</span>",
           "subtitle": "For all inquires please complete our form and submit .We will then contact you back as soon as we receive your contact form thank you for visiting Capricorn car sales in Deeside.",
           "form": {
             "action": "cross-a@hotmail.co.uk",
