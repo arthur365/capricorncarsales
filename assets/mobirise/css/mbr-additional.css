@@ -479,11 +479,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-u .link {
-  font-size: 3.25rem;
+  font-size: 0.95rem;
 }
 #ext_menu-u .dropdown-item,
 #ext_menu-u .nav-dropdown-sm .link {
-  font-size: 3.520rem;
+  font-size: 1.029rem;
 }
 #ext_menu-u .link:hover,
 #ext_menu-u .dropdown-item:hover,
@@ -520,7 +520,7 @@ h6,
 }
 #ext_menu-u .link[aria-expanded="true"],
 #ext_menu-u .dropdown-item[aria-expanded="true"] {
-  color: #2969b0!important;
+  color: #fac51c!important;
 }
 #ext_menu-u .btn {
   font-size: 13px;
