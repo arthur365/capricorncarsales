@@ -235,7 +235,7 @@
               "color": "#ffffff"
             },
             ".mbr-gallery-item > div > span": {
-              "font-size": "12px"
+              "font-size": "13px"
             }
           },
           "_params": {
