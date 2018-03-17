@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "HOME",
+    "currentPage": "page1.html",
     "name": "Capricorn Car Sale's ",
     "theme": {
       "name": "mobirise3",
@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 72,
+    "uniqCompNum": 73,
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
@@ -558,6 +558,43 @@
       },
       "components": [
         {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showCaption": false,
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/KekV_Y_cLG8?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=KekV_Y_cLG8",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0"
+          },
+          "title": "BACKGROUND VIDEO",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-20"
+        },
+        {
           "_name": "footer1",
           "_styles": {
             "P": {
@@ -688,7 +725,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "&nbsp;<br><br>Capricorn Premier used car sales company, About us",
+          "title": "<br>Capricorn Premier used car sales company, About us",
           "meta": "<br>Premier used car sales company My name is Glyn Thomas and my role is to ensure we are delivering you the highest level of customer service, and \n<br>I will be your point of contact  at Capricorn car sales, we have a great range of offers on \n<br>at the moment, and I am sure we will be able to find something that \n<br>is suitable for you. Finance available, on request please call car sales on 01244-818992 Your local show room shop \n<br>window for your next new used low millage car part ex welcome.\n<br>At Capricorn car sales we appreciate and understand the importance of your enquiry If you do require any additional \n<br>information please contact me directly, on phone number above and ask for Glyn or Danny  thank you.\n<br>The internet is an incredible mechanism, isn't it? To think that just over a decade ago, email and the internet didn't \n<br>really feature in our daily lives! Selling a used car in the 1990's involved traipsing around your local car dealers, \n<br>begging the attention of a half-interested used car sales person! And, for many who don't know about capricorncars.co.uk, \n<br>selling a used car still does involve such. But for those who know about us, it's just a case of switching on their computer, \n<br>visiting the capricorncars.co.uk- website, and entering your car details. The rest is taken care by us - we buy used cars online, \n<br>for cash As one of our competitors says - one click and it's gone! So, if you have a friend or know anyone\n<br>who is thinking of selling or buying a used car, please direct them to our website www.capricorncars.co.uk If they aren't a \n<br>friend now, they soon will be!\"capricorncars.co.uk used car buyers throughout the U.K<br><br><b>Capricorn Car sales in Deeside is a small family run business in Flintshire, Deeside,\n</b><br>We are a used car dealer in North Wales stocking a wide range of second hand low mileage used cars, Capricorn Car Sales Deeside,  Call 01244-818992\n<br> \n<br>At Capricorn cars we are proud to have helped 1000's of customers over the years get in to their new used car quickly, easily and hassle free. \n<br>We are EXPERTS in Car finance, Prime Low Rates deals if you have never experienced any credit issues. Deals done within the hour. If you have been unfortunate enough to have experienced credit issues, have poor credit or have a Poor Credit file we are proud to have helped 100's of customers over the years get into a new used car. We have over 30 car's physically in stock to choose from, massive choice, massive savings, and the best finance deals available. Low Deposit's available or why not use your current car in part exchange to help fund your new vehicle? Finance available from as little as £20 A week please contact us today.<br>",
           "_tags": [
             "Theme"

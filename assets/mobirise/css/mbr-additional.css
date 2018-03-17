@@ -548,6 +548,11 @@ h6,
   color: #2969b0;
   font-size: 25px;
 }
+#content8-20 .mbr-section-title,
+#content8-20 p {
+  text-align: right;
+  color: #fff;
+}
 #footer1-1o P {
   text-align: center;
   font-size: 14px;
