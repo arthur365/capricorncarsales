@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 
 
@@ -548,10 +549,17 @@ h6,
   color: #2969b0;
   font-size: 25px;
 }
+
 #content8-20 .mbr-section-title,
 #content8-20 p {
   text-align: right;
   color: #fff;
+}
+#content8-20 .mbr-section-title {
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  color: #efefef;
+  font-size: 24px;
 }
 #footer1-1o P {
   text-align: center;
