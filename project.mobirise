@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "HOME",
     "name": "Capricorn Car Sale's ",
     "theme": {
       "name": "mobirise3",
@@ -251,9 +251,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554-800x554-800x554-800x554.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554-800x554-800x554.jpg",
-                "caption": "SOLD",
+                "thumb": "@PROJECT_PATH@/assets/images/imagesroc6crzi-1-318x179-254x161.jpg",
+                "image": "@PROJECT_PATH@/assets/images/imagesroc6crzi-1-318x179.jpg",
+                "caption": "<a href=\"https://arthur365.github.io/Powerwash/home.github.ioPowerwash.html\" target=\"_blank\">Classified Ad Click or Tap</a>",
                 "active": true,
                 "alt": ""
               },
