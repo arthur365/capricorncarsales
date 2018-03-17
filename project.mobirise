@@ -25,7 +25,8 @@
         "#1c1010",
         "#011831",
         "#f90906",
-        "#b90200"
+        "#b90200",
+        "#160000"
       ]
     },
     "versionFirst": "3.10.4",
@@ -71,15 +72,15 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
-            "overlayColor": "#222",
+            "overlay": false,
+            "overlayColor": "#b90200",
             "overlayOpacity": "0.3"
           },
           "title": "&nbsp;<br><br>WELCOME TO CAPRICORN QUALITY USED CAR  \n<div>SALES IN DEESIDE, NORTH WALES</div><br><div> \n</div><div>Flintshire's Premier used car sales company</div>",
@@ -90,6 +91,25 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-1n"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#160000"
+          },
+          "text": "<p>&nbsp;Capricorn car sales we are proud to have helped 1000's of customers over the years get in to their new used car quickly, easily and hassle free\n</p><p>We are EXPERTS in Car finance, Prime Low Rates deals if you have never experienced any credit issues. Deals done within the hour. If you have &nbsp;been unfortunate&nbsp;<span style=\"font-size: 1.07rem;\">enough to have experienced credit issues, have poor credit or have a Poor Credit file we are proud to have helped 100's of customers over the years get into a new &nbsp;</span><span style=\"font-size: 1.07rem;\">used car. We have over 30 car's physically in stock to choose from, massive choice, massive savings, and the best finance deals&nbsp;</span><span style=\"font-size: 1.07rem;\">available. Low Deposit's available or why not use your current car in part exchange to help fund your new vehicle? Finance &nbsp;</span></p><p>available from as little as £20 A week please contact us today</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-21",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
@@ -198,27 +218,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Capricorn car sales &nbsp;eBay Show Room&nbsp;</a>  "
         },
         {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#660100"
-          },
-          "text": "<p>&nbsp;Capricorn car sales we are proud to have helped 1000's of customers over the years get in to their new used car quickly, easily and hassle free\n</p><p>We are EXPERTS in Car finance, Prime Low Rates deals if you have never experienced any credit issues. Deals done within the hour. If you have &nbsp;been unfortunate&nbsp;<span style=\"font-size: 1.07rem;\">enough to have experienced credit issues, have poor credit or have a Poor Credit file we are proud to have helped 100's of customers over the years get into a new &nbsp;</span><span style=\"font-size: 1.07rem;\">used car. We have over 30 car's physically in stock to choose from, massive choice, massive savings, and the best finance deals&nbsp;</span><span style=\"font-size: 1.07rem;\">available. Low Deposit's available or why not use your current car in part exchange to help fund your new vehicle? Finance&nbsp;</span></p><p>available from as little as £20 A week please contact us today</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-21",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "color": "#ffffff",
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
-            }
-          }
-        },
-        {
           "_name": "footer1",
           "_styles": {
             "P": {
@@ -264,7 +263,7 @@
             "fullWidth": true,
             "spacing": 1,
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "1",
             "filterBgColor": true,
             "bgColor": "#000000",
             "showText": true,
@@ -278,7 +277,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/imagesroc6crzi-1-318x179-254x161.jpg",
                 "image": "@PROJECT_PATH@/assets/images/imagesroc6crzi-1-318x179.jpg",
                 "caption": "<a href=\"https://www.facebook.com/Jays-power-wash-cleaning-services-147373639284296/\">Jay's&nbsp;Power Wash &nbsp;FACEBOOK Click or Tap&nbsp;</a><br><a href=\"https://arthur365.github.io/Powerwash/home.github.ioPowerwash.html\" target=\"_blank\">Classified Ad Jay's website Click or Tap</a>",
-                "active": true,
+                "active": false,
                 "alt": ""
               },
               {
@@ -286,9 +285,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554.jpg",
-                "caption": "&nbsp;SOLD",
+                "thumb": "@PROJECT_PATH@/assets/images/kjh-640x480-640x480.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kjh-640x480.jpg",
+                "caption": "&nbsp;FOR SALE",
                 "active": false,
                 "alt": ""
               },
@@ -297,10 +296,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
-                "caption": "For sale",
-                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/hyf-1600x1199-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hyf-1600x1199.jpg",
+                "caption": "FOR SALE",
+                "active": true,
                 "alt": ""
               },
               {
@@ -308,9 +307,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554.jpg",
-                "caption": "&nbsp;SOLD",
+                "thumb": "@PROJECT_PATH@/assets/images/hyt-640x480-640x480.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hyt-640x480.jpg",
+                "caption": "FOR SALE",
                 "active": false,
                 "alt": ""
               },
@@ -319,9 +318,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554-800x554-800x554.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554-800x554.jpg",
-                "caption": "&nbsp;SOLD",
+                "thumb": "@PROJECT_PATH@/assets/images/mino-640x480-640x480.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mino-640x480.jpg",
+                "caption": "&nbsp;FOR SALE",
                 "active": false,
                 "alt": ""
               },
@@ -330,9 +329,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1385.jpg",
-                "caption": "&nbsp;SOLD",
+                "thumb": "@PROJECT_PATH@/assets/images/s-l1600-640x480-640x480.jpg",
+                "image": "@PROJECT_PATH@/assets/images/s-l1600-640x480.jpg",
+                "caption": "&nbsp;FOR SALE",
                 "active": false,
                 "alt": ""
               },
@@ -341,9 +340,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1385.jpg",
-                "caption": "&nbsp;SOLD",
+                "thumb": "@PROJECT_PATH@/assets/images/hgf-1600x1199-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hgf-1600x1199.jpg",
+                "caption": "&nbsp;FOR SALE",
                 "active": false,
                 "alt": ""
               },
@@ -352,9 +351,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554-800x554.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mbr-2000x1385-800x554-800x554.jpg",
-                "caption": "&nbsp;SOLD",
+                "thumb": "@PROJECT_PATH@/assets/images/hjhh-1600x1199-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hjhh-1600x1199.jpg",
+                "caption": "&nbsp;FOR SALE",
                 "active": false,
                 "alt": ""
               }
