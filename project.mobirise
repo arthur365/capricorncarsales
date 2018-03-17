@@ -30,7 +30,7 @@
       ]
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 74,
+    "uniqCompNum": 75,
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
@@ -72,7 +72,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
@@ -91,25 +91,6 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-1n"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#160000"
-          },
-          "text": "<p>&nbsp;Capricorn car sales we are proud to have helped 1000's of customers over the years get in to their new used car quickly, easily and hassle free\n</p><p>We are EXPERTS in Car finance, Prime Low Rates deals if you have never experienced any credit issues. Deals done within the hour. If you have &nbsp;been unfortunate&nbsp;<span style=\"font-size: 1.07rem;\">enough to have experienced credit issues, have poor credit or have a Poor Credit file we are proud to have helped 100's of customers over the years get into a new &nbsp;</span><span style=\"font-size: 1.07rem;\">used car. We have over 30 car's physically in stock to choose from, massive choice, massive savings, and the best finance deals&nbsp;</span><span style=\"font-size: 1.07rem;\">available. Low Deposit's available or why not use your current car in part exchange to help fund your new vehicle? Finance &nbsp;</span></p><p>available from as little as £20 A week please contact us today</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-21",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "color": "#ffffff"
-            }
-          }
         },
         {
           "_styles": {
@@ -364,6 +345,25 @@
           "allItem": "<p>All<br></p>"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "<p>&nbsp;Capricorn car sales we are proud to have helped 1000's of customers over the years get in to their new used car quickly, easily and hassle free\n</p><p>We are EXPERTS in Car finance, Prime Low Rates deals if you have never experienced any credit issues. Deals done within the hour. If you have &nbsp;been unfortunate&nbsp;<span style=\"font-size: 1.07rem;\">enough to have experienced credit issues, have poor credit or have a Poor Credit file we are proud to have helped 100's of customers over the years get into a new &nbsp;</span><span style=\"font-size: 1.07rem;\">used car. We have over 30 car's physically in stock to choose from, massive choice, massive savings, and the best finance deals&nbsp;</span><span style=\"font-size: 1.07rem;\">available. Low Deposit's available or why not use your current car in part exchange to help fund your new vehicle? Finance &nbsp;</span></p><p>available from as little as £20 A week please contact us today</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "content1-22"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -394,13 +394,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#860100"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#aa0200!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#b90200"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -428,7 +428,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#b90200",
+            "bgColor": "#000000",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -719,7 +719,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#b90200",
+            "bgColor": "#000000",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",
@@ -932,7 +932,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#b90200",
+            "bgColor": "#000000",
             "fontSize": "0.95",
             "fontName": {},
             "fontColor": "#ffffff",

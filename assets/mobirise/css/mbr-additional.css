@@ -436,10 +436,6 @@ h6,
   text-align: center;
   font-size: 36px;
 }
-#content1-21 P {
-  text-align: left;
-  color: #ffffff;
-}
 #content5-g .mbr-section-title,
 #content5-g p {
   color: #fff;
@@ -475,6 +471,10 @@ h6,
 #gallery3-d .mbr-gallery-item > div > span {
   font-size: 13px;
 }
+#content1-22 P {
+  text-align: left;
+  color: #ffffff;
+}
 #ext_menu-u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -507,19 +507,19 @@ h6,
 }
 #ext_menu-u .link[aria-expanded="true"],
 #ext_menu-u .dropdown-menu {
-  background: #860100;
+  background: #000000;
 }
 #ext_menu-u .nav-dropdown-sm .link:focus,
 #ext_menu-u .nav-dropdown-sm .link:hover,
 #ext_menu-u .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-u .nav-dropdown-sm .dropdown-item:hover {
-  background: #aa0200!important;
+  background: #000000!important;
 }
 #ext_menu-u .navbar,
 #ext_menu-u .nav-dropdown-sm,
 #ext_menu-u .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-u .nav-dropdown-sm .dropdown-menu {
-  background: #b90200;
+  background: #000000;
 }
 #ext_menu-u .bg-color.transparent .link {
   color: #ffffff;
