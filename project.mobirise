@@ -251,10 +251,11 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/s-l1600-2000x1498-800x599.jpg",
-                "image": "@PROJECT_PATH@/assets/images/s-l1600-2000x1498.jpg",
-                "caption": "<a href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" target=\"_blank\">click here to view all cars in stock</a>",
-                "active": false
+                "thumb": "@PROJECT_PATH@/assets/images/logo-cap-132x101-132x101.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-cap-132x101.jpg",
+                "caption": "SOLD",
+                "active": true,
+                "alt": ""
               },
               {
                 "tags": "Responsive",
@@ -263,7 +264,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ff-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ff-2000x1498.jpg",
-                "caption": "<a href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" target=\"_blank\">click here to view all cars in stock</a>",
+                "caption": "&nbsp;SOLD",
                 "active": false
               },
               {
@@ -273,7 +274,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/fist-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/fist-2000x1498.jpg",
-                "caption": "<a href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" target=\"_blank\">click here to view all cars in stock</a>",
+                "caption": "SOLD",
                 "active": false
               },
               {
@@ -283,7 +284,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/ew-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ew-2000x1498.jpg",
-                "caption": "<a href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" target=\"_blank\">click here to view all cars in stock</a>",
+                "caption": "&nbsp;SOLD",
                 "active": false
               },
               {
@@ -293,7 +294,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rg-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/rg-2000x1498.jpg",
-                "caption": "",
+                "caption": "&nbsp;SOLD",
                 "active": false
               },
               {
@@ -303,7 +304,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/gh-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/gh-2000x1498.jpg",
-                "caption": "",
+                "caption": "&nbsp;SOLD",
                 "active": false
               },
               {
@@ -313,7 +314,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/s-l1600-1-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/s-l1600-1-2000x1498.jpg",
-                "caption": "",
+                "caption": "&nbsp;SOLD",
                 "active": false
               },
               {
@@ -323,8 +324,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dg-2000x1498-800x599.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dg-2000x1498.jpg",
-                "caption": "",
-                "active": true
+                "caption": "&nbsp;SOLD",
+                "active": false
               }
             ]
           },
