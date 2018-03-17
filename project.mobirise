@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "HOME",
     "name": "Capricorn Car Sale's ",
     "theme": {
       "name": "mobirise3",
@@ -55,7 +55,12 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "32px"
+            },
+            ".mbr-section-title DIV": {
+              "text-align": "center",
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -77,7 +82,7 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.1"
           },
-          "title": "&nbsp;<br>Welcome to Capricorn car sales in <br>Deeside, Fintshire, North Wales",
+          "title": "&nbsp;<br>WELCOME TO CAPRICORN QUALITY USED CAR  \n<div>SALES IN DEESIDE, NORTH WALES \n</div><div>Flintshire's Premier used car sales company</div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
