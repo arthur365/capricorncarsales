@@ -196,7 +196,7 @@
             }
           },
           "title": "<i>Opening Hours</i>",
-          "text": "Monday       09:30 AM to 05:30 PM<br>Tuesday      09:30 AM to 05:30 PM<br>Wednesday    09:30 AM to 05:30 PM<br>Thursday     09:30 AM to 05:30 PM<br>Friday       09:30 AM to 05:30 PM<br>Saturday     10:30 AM to 04:00 PM<br>Sunday       11:30 AM to 03:00 PM<br><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br>Please click or tap tab below to view all our cars in stock now<br>",
+          "text": "Monday       09:30 AM to 05:30 PM<br>Tuesday      09:30 AM to 05:30 PM<br>Wednesday    09:30 AM to 05:30 PM<br>Thursday     09:30 AM to 05:30 PM<br>Friday       09:30 AM to 05:30 PM<br>Saturday     10:30 AM to 04:00 PM<br>Sunday       11:30 AM to 03:00 PM<br><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br><b>Please click or tap tab below to view all our cars and details &nbsp;in stock now.</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Capricorn car sales &nbsp;eBay Show Room&nbsp;</a>  "
         },
         {
@@ -269,7 +269,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kjh-640x480-640x480.jpg",
                 "image": "@PROJECT_PATH@/assets/images/kjh-640x480.jpg",
-                "caption": "&nbsp;FOR SALE",
+                "caption": "<a href=\"https://www.ebay.co.uk/itm/192456006405\" target=\"_blank\">Click or tap here &nbsp;to view on eBay</a>",
                 "active": false,
                 "alt": ""
               },
@@ -280,7 +280,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hyf-1600x1199-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/hyf-1600x1199.jpg",
-                "caption": "FOR SALE",
+                "caption": "<a href=\"https://www.ebay.co.uk/itm/192372132019\" target=\"_blank\">Click or tap here  to view on eBay</a>",
                 "active": true,
                 "alt": ""
               },
@@ -291,7 +291,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hyt-640x480-640x480.jpg",
                 "image": "@PROJECT_PATH@/assets/images/hyt-640x480.jpg",
-                "caption": "FOR SALE",
+                "caption": "<a href=\"https://www.ebay.co.uk/itm/192484006920\" target=\"_blank\">Click or tap here  to view on eBay</a>",
                 "active": false,
                 "alt": ""
               },
@@ -302,7 +302,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mino-640x480-640x480.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mino-640x480.jpg",
-                "caption": "&nbsp;FOR SALE",
+                "caption": "<a href=\"https://www.ebay.co.uk/itm/192475020572\" target=\"_blank\">Click or tap here  to view on eBay</a>",
                 "active": false,
                 "alt": ""
               },
@@ -313,7 +313,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/s-l1600-640x480-640x480.jpg",
                 "image": "@PROJECT_PATH@/assets/images/s-l1600-640x480.jpg",
-                "caption": "&nbsp;FOR SALE",
+                "caption": "<a href=\"https://www.ebay.co.uk/itm/192405163474\" target=\"_blank\">Click or tap here  to view on eBay</a>",
                 "active": false,
                 "alt": ""
               },
@@ -324,7 +324,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hgf-1600x1199-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/hgf-1600x1199.jpg",
-                "caption": "&nbsp;FOR SALE",
+                "caption": "<a href=\"https://www.ebay.co.uk/itm/192445079605\" target=\"_blank\">Click or tap here  to view on eBay</a>",
                 "active": false,
                 "alt": ""
               },
@@ -335,7 +335,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hjhh-1600x1199-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/hjhh-1600x1199.jpg",
-                "caption": "&nbsp;FOR SALE",
+                "caption": "<a href=\"https://www.ebay.co.uk/itm/192315334277\" target=\"_blank\">Click or tap here  to view on eBay</a>",
                 "active": false,
                 "alt": ""
               }
@@ -414,7 +414,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fac51c!important"
+              "color": "#b90200!important"
             },
             ".btn": {
               "font-size": "13px"
@@ -869,13 +869,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#860100"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#aa0200!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#b90200"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -888,7 +888,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fac51c!important"
+              "color": "#b90200!important"
             },
             ".btn": {
               "font-size": "13px"
