@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#fac51c",
+        "primaryColor": "#b90200",
         "secondaryColor": "#fc0e01",
         "successColor": "#f90906",
         "infoColor": "#b8312f",
@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#4b0100",
+        "#fc0e01",
+        "#001d3e",
         "#232121",
         "#660100",
         "#1c1010",
-        "#011831",
-        "#f90906",
-        "#b90200",
-        "#160000"
+        "#011831"
       ]
     },
     "versionFirst": "3.10.4",
@@ -483,10 +483,10 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1329.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1626x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff",
+            "bgColor": "#4b0100",
             "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -521,37 +521,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Submit your message</a>"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#cccccc",
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "NEED TO BUY A LOW MILLAGE CAR ? SHARE THIS PAGE! &nbsp;OR<br><br>CALL GLYN ON 01244-818-992<br><br>MOBILE:GLYN &nbsp;0785-9069-481<br>.Be the first to leave your coment on our facebook &nbsp;below",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-1k",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "25px"
-            }
-          }
         },
         {
           "_params": {
