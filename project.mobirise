@@ -529,7 +529,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#cccccc",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5,
