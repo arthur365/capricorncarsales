@@ -37,7 +37,7 @@
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "google-analytics": "",
+    "google-analytics": "<script type=\"text/javascript\">function add_chatinline(){var hccid=81859701;var nt=document.createElement(\"script\");nt.async=true;nt.src=\"https://mylivechat.com/chatinline.aspx?hccid=\"+hccid;var ct=document.getElementsByTagName(\"script\")[0];ct.parentNode.insertBefore(nt,ct);}\r\nadd_chatinline(); </script>",
     "siteUrl": "undefined"
   },
   "pages": {
