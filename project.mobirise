@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 75,
+    "uniqCompNum": 76,
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
@@ -548,6 +548,25 @@
           ],
           "_name": "facebook-comments-block",
           "_anchor": "facebook-comments-block-1m"
+        },
+        {
+          "_afterNavbarItem": false,
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "sound": "https://soundcloud.com/green-oyster-band/baby-you-can-drive-my-car",
+            "autoplay": true,
+            "fullWidth": true,
+            "bgColor": "#000000"
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F48975665&amp;auto_play=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F48975665",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-23"
         }
       ]
     },
