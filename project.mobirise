@@ -8,7 +8,7 @@
       "styling": {
         "primaryColor": "#fac51c",
         "secondaryColor": "#fc0e01",
-        "successColor": "#90a878",
+        "successColor": "#f90906",
         "infoColor": "#b8312f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
@@ -18,9 +18,10 @@
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
-        "isRtl": true
+        "isRtl": false
       },
       "additionalSetColors": [
+        "#232121",
         "#660100",
         "#1c1010",
         "#011831",
@@ -246,7 +247,7 @@
             "paddingTop": 1,
             "paddingBottom": "1",
             "filterBgColor": true,
-            "bgColor": "#000000",
+            "bgColor": "#232121",
             "showText": true,
             "filter": false,
             "images": [
@@ -348,9 +349,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#000000"
+            "bgColor": "#ffffff"
           },
-          "text": "<p>&nbsp;Capricorn car sales we are proud to have helped 1000's of customers over the years get in to their new used car quickly, easily and hassle free\n</p><p>We are EXPERTS in Car finance, Prime Low Rates deals if you have never experienced any credit issues. Deals done within the hour. If you have &nbsp;been unfortunate&nbsp;<span style=\"font-size: 1.07rem;\">enough to have experienced credit issues, have poor credit or have a Poor Credit file we are proud to have helped 100's of customers over the years get into a new &nbsp;</span><span style=\"font-size: 1.07rem;\">used car. We have over 30 car's physically in stock to choose from, massive choice, massive savings, and the best finance deals&nbsp;</span><span style=\"font-size: 1.07rem;\">available. Low Deposit's available or why not use your current car in part exchange to help fund your new vehicle? Finance &nbsp;</span></p><p>available from as little as £20 A week please contact us today</p>",
+          "text": "<p>&nbsp;<b>Capricorn car sales</b> we are proud to have helped 1000's of customers over the years get in to their new used car quickly, easily and hassle free\n</p><p>We are EXPERTS in Car finance, Prime Low Rates deals if you have never experienced any credit issues. Deals done within the hour. If you have &nbsp;been unfortunate&nbsp;<span style=\"font-size: 1.07rem;\">enough to have experienced credit issues, have poor credit or have a Poor Credit file we are proud to have helped 100's of customers over the years get into a new &nbsp;</span><span style=\"font-size: 1.07rem;\">used car. We have over 30 car's physically in stock to choose from, massive choice, massive savings, and the best finance deals&nbsp;</span><span style=\"font-size: 1.07rem;\">available. Low Deposit's available or why not use your current car in part exchange to help fund your new vehicle? </span></p><p><span style=\"font-size: 1.07rem;\"><b>Finance&nbsp;</b></span><span style=\"font-size: 1.07rem;\"><b>available from as little as £20 A week</b> please contact us today</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -358,7 +359,7 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_anchor": "content1-22"
@@ -525,12 +526,12 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-720x1080.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
             "bgColor": "#cccccc",
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
             "overlayOpacity": 0.5,
             "facebook": true,
@@ -539,7 +540,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "NEED TO BUY A LOW MILLAGE CAR ?SHARE THIS PAGE! OR<br><br>CALL GLYN ON 01244-818-992<br><br>MOBILE:GLYN &nbsp;0785-9069-481<br>.Be the first to leave your coment on our facebook &nbsp;below",
+          "text": "NEED TO BUY A LOW MILLAGE CAR ? SHARE THIS PAGE! &nbsp;OR<br><br>CALL GLYN ON 01244-818-992<br><br>MOBILE:GLYN &nbsp;0785-9069-481<br>.Be the first to leave your coment on our facebook &nbsp;below",
           "_tags": [
             "Theme"
           ],
@@ -547,7 +548,7 @@
           "_anchor": "social-buttons1-1k",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#2969b0",
+              "color": "#ffffff",
               "font-size": "25px"
             }
           }
