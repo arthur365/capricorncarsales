@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "HOME",
+    "currentPage": "page1.html",
     "name": "Capricorn Car Sale's ",
     "theme": {
       "name": "mobirise3",
@@ -41,11 +41,427 @@
     "siteUrl": "undefined"
   },
   "pages": {
-    "HOME": {
+    "page1.html": {
+      "settings": {
+        "meta_descr": "cars for sale in deeside,\nhttp://www.capricorncars.co.uk/Pages/default.aspx ,  capricorn car sales in deeside",
+        "title": "ABOUT US",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "color": "#efefef",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": false,
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/KekV_Y_cLG8?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=KekV_Y_cLG8",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0"
+          },
+          "title": "<br><br>Just off the Flintshire Bridge",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-20"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "text": "<p><b><i>Mr Glyn Thomas at Capricorn car sales &nbsp;in Deeside Flintshire North Wales//Copyright &nbsp;apply (c) 2018&nbsp;<a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Webpage Admin Arthur365 &nbsp;</a>on behalf &nbsp;</i></b></p><p><b><i>Capricorn Car Sale's in Deeside, Flinshire Small business Website <a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Built Here</a></i></b></p>",
+          "_anchor": "footer1-1o"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b90200!important"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
+              "height": 128,
+              "alt": "capricorn car sales home page",
+              "link": "http://www.capricorncars.co.uk/Pages/INSTOCK.aspx",
+              "title": "capricorn car sales home page",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">capricorn car sales&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page1.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page2.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">ABOUT US</a></li>",
+          "_anchor": "ext_menu-1p"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle B": {
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#660100"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "<br>Capricorn Premier used car sales company, About us",
+          "meta": "<br>Premier used car sales company My name is Glyn Thomas and my role is to ensure we are delivering you the highest level of customer service, and \n<br>I will be your point of contact  at Capricorn car sales, we have a great range of offers on \n<br>at the moment, and I am sure we will be able to find something that \n<br>is suitable for you. Finance available, on request please call car sales on 01244-818992 Your local show room shop \n<br>window for your next new used low millage car part ex welcome.\n<br>At Capricorn car sales we appreciate and understand the importance of your enquiry If you do require any additional \n<br>information please contact me directly, on phone number above and ask for Glyn or Danny  thank you<br>&nbsp;<br>The internet is an incredible mechanism, isn't it? To think that just over a decade ago, email and the internet didn't \n<br>really feature in our daily lives! Selling a used car in the 1990's involved traipsing around your local car dealers, \n<br>begging the attention of a half-interested used car sales person! And, for many who don't know about capricorncars.co.uk, \n<br>selling a used car still does involve such. But for those who know about us, it's just a case of switching on their computer, \n<br>visiting the capricorncars.co.uk- website, and entering your car details. The rest is taken care by us - we buy used cars online, \n<br>for cash As one of our competitors says - one click and it's gone! So, if you have a friend or know anyone\n<br>who is thinking of selling or buying a used car, please direct them to our website www.capricorncars.co.uk If they aren't a \n<br>friend now, they soon will be!\"capricorncars.co.uk used car buyers throughout the U.K<br><br><b>Capricorn Car sales in Deeside is a small family run business in Flintshire, Deeside,\n</b><br>We are a used car dealer in North Wales stocking a wide range of second hand low mileage used cars, Capricorn Car Sales Deeside, <br> Call 01244-818992\n<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "! SHARE THIS PAGE",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-1u"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "LOCATE US",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
+              "color": "#fff"
+            },
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/2rF0ZpgBPpk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=2rF0ZpgBPpk",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "BACKGROUND VIDEO",
+          "caption": "<p><b>CH5-4AR &nbsp;.LOCATE US</b>&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-1z"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "text": "<p><b><i>Mr Glyn Thomas at Capricorn car sales &nbsp;in Deeside Flintshire North Wales//Copyright &nbsp;apply (c) 2018&nbsp;<a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Webpage Admin Arthur365 &nbsp;</a>on behalf &nbsp;</i></b></p><p><b><i>Capricorn Car Sale's in Deeside, Flinshire Small business Website <a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Built Here</a></i></b></p>",
+          "_anchor": "footer1-1w"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b90200!important"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "0.95",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
+              "height": 128,
+              "alt": "capricorn car sales home page",
+              "link": "http://www.capricorncars.co.uk/Pages/INSTOCK.aspx",
+              "title": "capricorn car sales home page",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">capricorn car sales&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page1.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page2.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">ABOUT US</a></li>",
+          "_anchor": "ext_menu-1x"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Capricorn Car Sales, \n\nBumblebee Garage \nChurch Street ,Connahs Quay, \nDeeside, \nFlintshire ,\nCH5-4AR  \n",
+              "placeId": "ChIJYaT77WLaekgRRp4eztF7-c8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Bumblebee Garage <br>Church Street ,Connahs Quay, \n<br>Deeside, \n<br>Flintshire ,\n<br>CH5-4AR &nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail:<br>Phone:&nbsp;01244 818992<br>",
+          "text2": "<ul><li></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-1y",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
+            },
+            "P": {
+              "font-size": "20px"
+            }
+          }
+        }
+      ]
+    },
+    ".HOME": {
       "settings": {
         "main": true,
         "title": "HOME ",
-        "meta_descr": "",
+        "meta_descr": "http://www.capricorncars.co.uk/Pages/default.aspx",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -195,7 +611,7 @@
               "size": 0
             }
           },
-          "title": "<i>Opening Hours</i>",
+          "title": "<i><a href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\">Opening Hours</a></i>",
           "text": "Monday       09:30 AM to 05:30 PM<br>Tuesday      09:30 AM to 05:30 PM<br>Wednesday    09:30 AM to 05:30 PM<br>Thursday     09:30 AM to 05:30 PM<br>Friday       09:30 AM to 05:30 PM<br>Saturday     10:30 AM to 04:00 PM<br>Sunday       11:30 AM to 03:00 PM<br><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br><b>Please click or tap tab below to view all our cars and details &nbsp;in stock now.</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Capricorn car sales &nbsp;eBay Show Room&nbsp;</a>  "
         },
@@ -547,422 +963,6 @@
           ],
           "_name": "facebook-comments-block",
           "_anchor": "facebook-comments-block-1m"
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {
-        "meta_descr": "Web Maker Description",
-        "title": "ABOUT US",
-        "order": 2
-      },
-      "components": [
-        {
-          "_inherit": "content5",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "text-align": "right",
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "text-align": "center",
-              "font-family": "'Roboto Slab', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
-              "color": "#efefef",
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showCaption": false,
-            "paddingTop": 3,
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/KekV_Y_cLG8?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=KekV_Y_cLG8",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0"
-          },
-          "title": "<br><br>Just off the Flintshire Bridge",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content8",
-          "_anchor": "content8-20"
-        },
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "14px"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
-          },
-          "text": "<p><b><i>Mr Glyn Thomas at Capricorn car sales &nbsp;in Deeside Flintshire North Wales//Copyright &nbsp;apply (c) 2018&nbsp;<a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Webpage Admin Arthur365 &nbsp;</a>on behalf &nbsp;</i></b></p><p><b><i>Capricorn Car Sale's in Deeside, Flinshire Small business Website <a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Built Here</a></i></b></p>",
-          "_anchor": "footer1-1o"
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.95rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#860100"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#aa0200!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#b90200"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fac51c!important"
-            },
-            ".btn": {
-              "font-size": "13px"
-            }
-          },
-          "_name": "ext.menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#000000",
-            "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
-              "height": 128,
-              "alt": "capricorn car sales home page",
-              "link": "http://www.capricorncars.co.uk/Pages/INSTOCK.aspx",
-              "title": "capricorn car sales home page",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">capricorn car sales&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page1.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page2.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">ABOUT US</a></li>",
-          "_anchor": "ext_menu-1p"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle B": {
-              "color": "#000000"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#660100"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "<br>Capricorn Premier used car sales company, About us",
-          "meta": "<br>Premier used car sales company My name is Glyn Thomas and my role is to ensure we are delivering you the highest level of customer service, and \n<br>I will be your point of contact  at Capricorn car sales, we have a great range of offers on \n<br>at the moment, and I am sure we will be able to find something that \n<br>is suitable for you. Finance available, on request please call car sales on 01244-818992 Your local show room shop \n<br>window for your next new used low millage car part ex welcome.\n<br>At Capricorn car sales we appreciate and understand the importance of your enquiry If you do require any additional \n<br>information please contact me directly, on phone number above and ask for Glyn or Danny  thank you<br>&nbsp;<br>The internet is an incredible mechanism, isn't it? To think that just over a decade ago, email and the internet didn't \n<br>really feature in our daily lives! Selling a used car in the 1990's involved traipsing around your local car dealers, \n<br>begging the attention of a half-interested used car sales person! And, for many who don't know about capricorncars.co.uk, \n<br>selling a used car still does involve such. But for those who know about us, it's just a case of switching on their computer, \n<br>visiting the capricorncars.co.uk- website, and entering your car details. The rest is taken care by us - we buy used cars online, \n<br>for cash As one of our competitors says - one click and it's gone! So, if you have a friend or know anyone\n<br>who is thinking of selling or buying a used car, please direct them to our website www.capricorncars.co.uk If they aren't a \n<br>friend now, they soon will be!\"capricorncars.co.uk used car buyers throughout the U.K<br><br><b>Capricorn Car sales in Deeside is a small family run business in Flintshire, Deeside,\n</b><br>We are a used car dealer in North Wales stocking a wide range of second hand low mileage used cars, Capricorn Car Sales Deeside, <br> Call 01244-818992\n<br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1q"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5,
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "! SHARE THIS PAGE",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons1",
-          "_anchor": "social-buttons1-1u"
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "meta_descr": "Web Builder Description",
-        "title": "LOCATE US",
-        "order": 1
-      },
-      "components": [
-        {
-          "_inherit": "content5",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "text-align": "right",
-              "color": "#fff"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": false,
-            "showCaption": true,
-            "paddingTop": 3,
-            "paddingBottom": "5",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/2rF0ZpgBPpk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=2rF0ZpgBPpk",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.6"
-          },
-          "title": "BACKGROUND VIDEO",
-          "caption": "<p><b>CH5-4AR &nbsp;.LOCATE US</b>&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content8",
-          "_anchor": "content8-1z"
-        },
-        {
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-size": "14px"
-            }
-          },
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
-          },
-          "text": "<p><b><i>Mr Glyn Thomas at Capricorn car sales &nbsp;in Deeside Flintshire North Wales//Copyright &nbsp;apply (c) 2018&nbsp;<a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Webpage Admin Arthur365 &nbsp;</a>on behalf &nbsp;</i></b></p><p><b><i>Capricorn Car Sale's in Deeside, Flinshire Small business Website <a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Built Here</a></i></b></p>",
-          "_anchor": "footer1-1w"
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.95rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#b90200!important"
-            },
-            ".btn": {
-              "font-size": "13px"
-            }
-          },
-          "_name": "ext.menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#000000",
-            "fontSize": "0.95",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
-              "height": 128,
-              "alt": "capricorn car sales home page",
-              "link": "http://www.capricorncars.co.uk/Pages/INSTOCK.aspx",
-              "title": "capricorn car sales home page",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">capricorn car sales&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page1.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page2.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">ABOUT US</a></li>",
-          "_anchor": "ext_menu-1x"
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "Capricorn Car Sales, \n\nBumblebee Garage \nChurch Street ,Connahs Quay, \nDeeside, \nFlintshire ,\nCH5-4AR  \n",
-              "placeId": "ChIJYaT77WLaekgRRp4eztF7-c8",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Address</strong><br>Bumblebee Garage <br>Church Street ,Connahs Quay, \n<br>Deeside, \n<br>Flintshire ,\n<br>CH5-4AR &nbsp;<br><br><br>\n<strong>Contacts</strong><br>\nEmail:<br>Phone:&nbsp;01244 818992<br>",
-          "text2": "<ul><li></li></ul>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-1y",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff",
-              "font-family": "'Bitter', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
-            },
-            "P": {
-              "font-size": "20px"
-            }
-          }
         }
       ]
     }
