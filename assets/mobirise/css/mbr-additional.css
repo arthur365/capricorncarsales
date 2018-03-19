@@ -436,6 +436,15 @@ h6,
   text-align: center;
   font-size: 36px;
 }
+#gallery3-d P {
+  text-align: right;
+  font-size: 12px;
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+}
+#gallery3-d .mbr-gallery-item > div > span {
+  font-size: 13px;
+}
 #content5-g .mbr-section-title,
 #content5-g p {
   color: #fff;
@@ -461,15 +470,6 @@ h6,
 #footer1-2 P {
   text-align: center;
   font-size: 14px;
-}
-#gallery3-d P {
-  text-align: right;
-  font-size: 12px;
-  font-family: 'Oswald', sans-serif;
-  color: #ffffff;
-}
-#gallery3-d .mbr-gallery-item > div > span {
-  font-size: 13px;
 }
 #content1-22 P {
   text-align: left;
