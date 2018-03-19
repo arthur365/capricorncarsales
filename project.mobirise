@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": ".HOME",
     "name": "Capricorn Car Sale's ",
     "theme": {
       "name": "mobirise3",
@@ -612,7 +612,7 @@
             }
           },
           "title": "<i><a href=\"http://www.capricorncars.co.uk/Pages/default.aspx\" target=\"_blank\">Opening Hours</a></i>",
-          "text": "Monday       09:30 AM to 05:30 PM<br>Tuesday      09:30 AM to 05:30 PM<br>Wednesday    09:30 AM to 05:30 PM<br>Thursday     09:30 AM to 05:30 PM<br>Friday       09:30 AM to 05:30 PM<br>Saturday     10:30 AM to 04:00 PM<br>Sunday       11:30 AM to 03:00 PM<br><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br><b>Please click or tap tab below to view all our cars and details &nbsp;in stock now.</b><br>",
+          "text": "Monday       09:30 AM to 05:30 PM<br>Tuesday      09:30 AM to 05:30 PM<br>Wednesday    09:30 AM to 05:30 PM<br>Thursday     09:30 AM to 05:30 PM<br>Friday       09:30 AM to 05:30 PM<br>Saturday     10:30 AM to 04:00 PM<br>Sunday       11:30 AM to 03:00 PM<br><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br><b>Please click or tap tab below to view all our cars and details &nbsp;in stock now. &nbsp;<a href=\"https://www.facebook.com/glyn.thomas.50?fref=hovercard&amp;hc_location=chat\" target=\"_blank\" class=\"text-danger\"><b>Visit My Facebook</b></a></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Capricorn car sales &nbsp;eBay Show Room&nbsp;</a>  "
         },
         {
