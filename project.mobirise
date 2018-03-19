@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page2.html",
+    "currentPage": "HOME",
     "name": "Capricorn Car Sale's ",
     "theme": {
       "name": "mobirise3",
@@ -84,7 +84,7 @@
             "overlayColor": "#b90200",
             "overlayOpacity": "0.3"
           },
-          "title": "&nbsp;<br><br>WELCOME TO CAPRICORN QUALITY USED CAR  \n<div>SALES IN DEESIDE, NORTH WALES</div><br><div> \n</div><div>Flintshire's Premier used car sales company</div><br><div><br></div><div>Call 01244-818-992</div>",
+          "title": "<br>WELCOME TO CAPRICORN QUALITY USED CAR  \n<div>SALES IN DEESIDE, NORTH WALES</div><br><div> \n</div><div>Flintshire's Premier used car sales company</div><div><br></div><div>Call 01244-818-992</div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -92,6 +92,38 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-1n"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-g",
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1385.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#1c1010",
+            "overlayOpacity": "0.6"
+          },
+          "title": "",
+          "caption": ""
         },
         {
           "_inherit": "gallery1",
@@ -102,23 +134,23 @@
           "_styles": {
             "P": {
               "text-align": "right",
-              "font-size": "12px",
+              "font-size": "20px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#ffffff"
+              "color": "#f3c649"
             },
             ".mbr-gallery-item > div > span": {
               "font-size": "13px"
             }
           },
           "_params": {
-            "showBullets": true,
+            "showBullets": false,
             "fullWidth": true,
             "spacing": 1,
             "paddingTop": 1,
             "paddingBottom": "1",
             "filterBgColor": true,
-            "bgColor": "#232121",
+            "bgColor": "#1c1010",
             "showText": true,
             "filter": false,
             "images": [
@@ -214,39 +246,26 @@
           },
           "_anchor": "gallery3-d",
           "articleLayout": false,
-          "allItem": "<p>All<br></p>"
+          "allItem": "<p><b>All</b><br></p>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
           },
+          "text": "<p><b>How it works . </b></p><p><b>Click' or tap' pic to view . Click' yellow right up below car pic to view full car details.</b></p><p><b>Capricorn car sales</b> we are proud to have helped 1000's of customers over the years get in to their new used car quickly, easily and hassle free\n</p><p>We are EXPERTS in Car finance, Prime Low Rates deals if you have never experienced any credit issues. Deals done within the hour. If you have &nbsp;been unfortunate&nbsp;<span style=\"font-size: 1.07rem;\">enough to have experienced credit issues, have poor credit or have a Poor Credit file we are proud to have helped 100's of customers over the years get into a new &nbsp;</span><span style=\"font-size: 1.07rem;\">used car. We have over 30 car's physically in stock to choose from, massive choice, massive savings, and the best finance deals&nbsp;</span><span style=\"font-size: 1.07rem;\">available. Low Deposit's available or why not use your current car in part exchange to help fund your new vehicle? </span></p><p><span style=\"font-size: 1.07rem;\"><b>Finance&nbsp;</b></span><span style=\"font-size: 1.07rem;\"><b>available from as little as £20 A week</b> please contact us today</span></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "content5",
-          "_anchor": "content5-g",
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "1",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1385.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#1c1010",
-            "overlayOpacity": "0.6"
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "color": "#000000"
+            }
           },
-          "title": "",
-          "caption": ""
+          "_anchor": "content1-22"
         },
         {
           "_tags": [
@@ -272,7 +291,7 @@
               "color": "#ffffff"
             },
             "I": {
-              "color": "#b8312f"
+              "color": "#ffffff"
             }
           },
           "_anchor": "msg-box5-y",
@@ -281,21 +300,21 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "62",
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1672x1080.jpg",
+            "imageSize": "70",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-1620x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#1c1010",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
           },
           "media": {
             "image": {
@@ -344,25 +363,6 @@
             "overlayOpacity": "0.7"
           },
           "text": "<p><b><i>Mr Glyn Thomas at Capricorn car sales &nbsp;in Deeside Flintshire North Wales//Copyright &nbsp;apply (c) 2018&nbsp;<a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Webpage Admin Arthur365 &nbsp;</a>on behalf &nbsp;</i></b></p><p><b><i>Capricorn Car Sale's in Deeside, Flinshire Small business Website <a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Built Here</a></i></b></p>"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "<p><b>How it works . </b></p><p><b>Click' or tap' pic to view . Click' yellow right up below car pic to view full car details.</b></p><p><b>Capricorn car sales</b> we are proud to have helped 1000's of customers over the years get in to their new used car quickly, easily and hassle free\n</p><p>We are EXPERTS in Car finance, Prime Low Rates deals if you have never experienced any credit issues. Deals done within the hour. If you have &nbsp;been unfortunate&nbsp;<span style=\"font-size: 1.07rem;\">enough to have experienced credit issues, have poor credit or have a Poor Credit file we are proud to have helped 100's of customers over the years get into a new &nbsp;</span><span style=\"font-size: 1.07rem;\">used car. We have over 30 car's physically in stock to choose from, massive choice, massive savings, and the best finance deals&nbsp;</span><span style=\"font-size: 1.07rem;\">available. Low Deposit's available or why not use your current car in part exchange to help fund your new vehicle? </span></p><p><span style=\"font-size: 1.07rem;\"><b>Finance&nbsp;</b></span><span style=\"font-size: 1.07rem;\"><b>available from as little as £20 A week</b> please contact us today</span></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "color": "#000000"
-            }
-          },
-          "_anchor": "content1-22"
         },
         {
           "_inherit": "menu",
