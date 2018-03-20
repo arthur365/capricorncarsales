@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 76,
+    "uniqCompNum": 78,
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
@@ -62,7 +62,7 @@
             },
             ".mbr-section-title DIV": {
               "text-align": "center",
-              "font-size": "36px"
+              "font-size": "30px"
             }
           },
           "_params": {
@@ -73,18 +73,18 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
-            "parallax": false,
+            "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#b90200",
+            "overlay": true,
+            "overlayColor": "#000000",
             "overlayOpacity": "0.3"
           },
-          "title": "<br>WELCOME TO CAPRICORN QUALITY USED CAR  \n<div>SALES IN DEESIDE, NORTH WALES</div><br><div> \n</div><div>Flintshire's Premier used car sales company</div><div><br></div><div>Call 01244-818-992</div>",
+          "title": "<br>WELCOME TO <br>CAPRICORN QUALITY USED CAR  \n<div>SALES IN DEESIDE, NORTH WALES</div>Flintshire's Premier used car sales company<br><div><br></div><div>Capricorn cars would like to apologise for any inconvenience we may of caused you due to Microsoft updates at <a href=\"http://www.capricorncars.co.uk/Pages/default.aspx\">www.capricorncars.co.uk</a>&nbsp;</div><div><br></div><div>Call 01244-818-992</div>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -159,9 +159,20 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/imagesroc6crzi-copy-318x284-318x284.jpg",
-                "image": "@PROJECT_PATH@/assets/images/imagesroc6crzi-copy-318x284.jpg",
-                "caption": "<a href=\"https://www.facebook.com/Jays-power-wash-cleaning-services-147373639284296/\">Jay's&nbsp;Power Wash &nbsp;FACEBOOK Click or Tap&nbsp;</a><br><a href=\"https://arthur365.github.io/Powerwash/home.github.ioPowerwash.html\" target=\"_blank\">Classified Ad Jay's website Click or Tap</a>",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-132x101-132x101.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
+                "caption": "SOLD",
+                "active": true,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/logo-132x101-132x101.jpg",
+                "image": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
+                "caption": "SOLD",
                 "active": false,
                 "alt": ""
               },
@@ -229,17 +240,6 @@
                 "image": "@PROJECT_PATH@/assets/images/hgf-1600x1199.jpg",
                 "caption": "<a href=\"https://www.ebay.co.uk/itm/192445079605\" target=\"_blank\">Click or tap here  to view on eBay</a>",
                 "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/aerthurs-web-640x306-409x260.png",
-                "image": "@PROJECT_PATH@/assets/images/aerthurs-web-640x306.png",
-                "caption": "<a href=\"https://arthur365.github.io/businesswebsites/\">WEBSITES BUILT 4 U&nbsp;2018</a>",
-                "active": true,
                 "alt": ""
               }
             ]
@@ -521,6 +521,135 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>Submit your message</a>"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#232121",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bloggif-5aa3c001cae19.gif",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://arthur365.github.io/Powerwash/home.github.ioPowerwash.html",
+              "alt": "Jay's power wash service",
+              "title": "Jay's power wash service"
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://arthur365.github.io/businesswebsites/",
+              "alt": "websites built 4 U",
+              "title": "websites built 4 U",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Classified Ad",
+          "subtitle1": "Jay's power wash service in Deeside",
+          "caption1": "If you are looking for a high quality patio or driveway, or perhaps want some garden paving performe Jay's Block Pavers are the team to call.\n<br>Expert providers of paving for a wide range of applications,\n<br>We work hard to deliver the best possible work every time, offering free inspections, free estimates whith a five years' guarantee on every job we do.\n<br>Jay's Block Pavers can provide assistance with:<br>",
+          "title2": "Classified Ad<br>Responsive websites built 4.U",
+          "subtitle2": "",
+          "caption2": "Do you need a responsive website quickly, without fuss but you need it professionally designed and built? That's what Business websites built 4 U specialise in. As a webage designer I understand the needs of hard working business owners, so I have created the perfect custom built 'pay as you go websites' to suit your business that can grow as your business grows.<br><br>",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://arthur365.github.io/Powerwash/home.github.ioPowerwash.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://arthur365.github.io/businesswebsites/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-25",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#232121"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#efefef"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#cccccc"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_params": {
