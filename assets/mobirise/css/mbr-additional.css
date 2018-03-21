@@ -809,6 +809,13 @@ h6,
   text-align: left;
   font-size: 36px;
 }
+#gallery3-2f .mbr-gallery-item > div > span {
+  font-size: 16px;
+}
+#gallery3-2f LI {
+  color: #ffffff;
+  text-align: left;
+}
 #footer1-29 P {
   text-align: center;
   font-size: 14px;
@@ -894,7 +901,4 @@ h6,
 }
 #features1-2b .mbr-cards-col:nth-child(odd) .card-subtitle {
   color: #ffffff;
-}
-#gallery3-2f .mbr-gallery-item > div > span {
-  font-size: 16px;
 }
