@@ -1172,7 +1172,7 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "filterBgColor": true,
-            "bgColor": "#505050",
+            "bgColor": "#efefef",
             "showText": true,
             "filter": false,
             "images": [
