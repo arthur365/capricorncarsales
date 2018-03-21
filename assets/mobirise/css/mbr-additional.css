@@ -883,21 +883,3 @@ h6,
 #features1-2b .mbr-cards-col:nth-child(odd) .card-subtitle {
   color: #ffffff;
 }
-#features1-2c .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #232121;
-}
-#features1-2c .mbr-cards-col:nth-child(odd) .card-text {
-  color: #efefef;
-}
-#features1-2c .mbr-cards-col:nth-child(even) .card-text {
-  color: #ffffff;
-}
-#features1-2c .mbr-cards-col:nth-child(even) .card-title {
-  color: #c1c1c1;
-}
-#features1-2c .mbr-cards-col:nth-child(even) .card-subtitle {
-  color: #cccccc;
-}
-#features1-2c .mbr-cards-col:nth-child(odd) .card-subtitle {
-  color: #ffffff;
-}
