@@ -534,7 +534,7 @@ h6,
 }
 #ext_menu-u .link[aria-expanded="true"],
 #ext_menu-u .dropdown-item[aria-expanded="true"] {
-  color: #b90200!important;
+  color: #fc0e01!important;
 }
 #ext_menu-u .btn {
   font-size: 13px;
@@ -800,6 +800,14 @@ h6,
 }
 #form1-28 SMALL {
   color: #ffffff;
+}
+#header2-2d .mbr-section-text {
+  text-align: left;
+  font-size: 32px;
+}
+#header2-2d .mbr-section-title {
+  text-align: left;
+  font-size: 36px;
 }
 #footer1-29 P {
   text-align: center;
