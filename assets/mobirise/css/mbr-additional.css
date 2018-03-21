@@ -895,3 +895,6 @@ h6,
 #features1-2b .mbr-cards-col:nth-child(odd) .card-subtitle {
   color: #ffffff;
 }
+#gallery3-2f .mbr-gallery-item > div > span {
+  font-size: 16px;
+}
