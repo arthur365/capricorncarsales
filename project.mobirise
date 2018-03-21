@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "HOME",
+    "currentPage": "page4.html",
     "name": "Capricorn Car Sale's ",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 81,
+    "uniqCompNum": 85,
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
@@ -386,10 +386,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -424,13 +424,13 @@
           "_anchor": "ext_menu-u",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "0.95",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -452,7 +452,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">capricorn car sales&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page1.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page2.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">ABOUT US</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page1.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\"></span>CLASSIFIED ADS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page2.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">ABOUT US</a></li>"
         },
         {
           "_params": {
@@ -487,7 +487,7 @@
       "settings": {
         "meta_descr": "Web Maker Description",
         "title": "ABOUT US",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -616,13 +616,13 @@
           "_name": "ext.menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "0.95",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -644,7 +644,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">capricorn car sales&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page1.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page2.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">ABOUT US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page1.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\"></span>CLASSIFIED ADS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page2.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">ABOUT US</a></li>",
           "_anchor": "ext_menu-1p"
         },
         {
@@ -709,7 +709,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "LOCATE US",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -834,13 +834,13 @@
           "_name": "ext.menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "0.95",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -862,7 +862,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">capricorn car sales&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page1.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page2.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">ABOUT US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page1.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\"></span>CLASSIFIED ADS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page2.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">ABOUT US</a></li>",
           "_anchor": "ext_menu-1x"
         },
         {
@@ -908,7 +908,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "CONTACT US",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -956,10 +956,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.95rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -993,13 +993,13 @@
           "_name": "ext.menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
             "transparent": true,
             "bgColor": "#000000",
-            "fontSize": "0.95",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1021,7 +1021,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">capricorn car sales&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page1.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page2.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">ABOUT US</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page1.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\"></span>CLASSIFIED ADS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page2.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">ABOUT US</a></li>",
           "_anchor": "ext_menu-27"
         },
         {
@@ -1091,6 +1091,386 @@
             }
           },
           "_anchor": "form1-28"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "Classified Ad",
+        "order": 1
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "14px"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "text": "<p><b><i>Mr Glyn Thomas at Capricorn car sales &nbsp;in Deeside Flintshire North Wales//Copyright &nbsp;apply (c) 2018&nbsp;<a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Webpage Admin Arthur365 &nbsp;</a>on behalf &nbsp;</i></b></p><p><b><i>Capricorn Car Sale's in Deeside, Flinshire Small business Website <a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Built Here</a></i></b></p>",
+          "_anchor": "footer1-29"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#b90200!important"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://arthur365.github.io/capricorncarsales/HOME.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">capricorn car sales&nbsp;</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page1.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\"></span>CLASSIFIED ADS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page2.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">ABOUT US</a></li>",
+          "_anchor": "ext_menu-2a"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#232121",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bloggif-5aa3c001cae19.gif",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://arthur365.github.io/Powerwash/home.github.ioPowerwash.html",
+              "alt": "Jay's power wash service",
+              "title": "Jay's power wash service"
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://arthur365.github.io/businesswebsites/",
+              "alt": "websites built 4 U",
+              "title": "websites built 4 U",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Classified Ad",
+          "subtitle1": "Jay's power wash service in Deeside",
+          "caption1": "If you are looking for a high quality patio or driveway, or perhaps want some garden paving performe Jay's Block Pavers are the team to call.\n<br>Expert providers of paving for a wide range of applications,\n<br>We work hard to deliver the best possible work every time, offering free inspections, free estimates whith a five years' guarantee on every job we do.\n<br>Jay's Block Pavers can provide assistance with:<br>",
+          "title2": "Classified Ad<br>Responsive websites built 4.U",
+          "subtitle2": "",
+          "caption2": "Do you need a responsive website quickly, without fuss but you need it professionally designed and built? That's what Business websites built 4 U specialise in. As a webage designer I understand the needs of hard working business owners, so I have created the perfect custom built 'pay as you go websites' to suit your business that can grow as your business grows.<br><br>",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://arthur365.github.io/Powerwash/home.github.ioPowerwash.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://arthur365.github.io/businesswebsites/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#232121"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#efefef"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#cccccc"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-2b"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "columnsColor": "#232121",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bloggif-5aa3c001cae19.gif",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://arthur365.github.io/Powerwash/home.github.ioPowerwash.html",
+              "alt": "Jay's power wash service",
+              "title": "Jay's power wash service"
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://arthur365.github.io/businesswebsites/",
+              "alt": "websites built 4 U",
+              "title": "websites built 4 U",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Classified Ad",
+          "subtitle1": "Jay's power wash service in Deeside",
+          "caption1": "If you are looking for a high quality patio or driveway, or perhaps want some garden paving performe Jay's Block Pavers are the team to call.\n<br>Expert providers of paving for a wide range of applications,\n<br>We work hard to deliver the best possible work every time, offering free inspections, free estimates whith a five years' guarantee on every job we do.\n<br>Jay's Block Pavers can provide assistance with:<br>",
+          "title2": "Classified Ad<br>Responsive websites built 4.U",
+          "subtitle2": "",
+          "caption2": "Do you need a responsive website quickly, without fuss but you need it professionally designed and built? That's what Business websites built 4 U specialise in. As a webage designer I understand the needs of hard working business owners, so I have created the perfect custom built 'pay as you go websites' to suit your business that can grow as your business grows.<br><br>",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://arthur365.github.io/Powerwash/home.github.ioPowerwash.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-smile-face mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://arthur365.github.io/businesswebsites/\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span>MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#232121"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#efefef"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#ffffff"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#c1c1c1"
+            },
+            ".mbr-cards-col:nth-child(even) .card-subtitle": {
+              "color": "#cccccc"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features1-2c"
         }
       ]
     }
