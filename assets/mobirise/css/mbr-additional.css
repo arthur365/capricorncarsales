@@ -540,16 +540,8 @@ h6,
   font-size: 13px;
 }
 
-#content8-20 .mbr-section-title,
-#content8-20 p {
-  text-align: right;
-  color: #fff;
-}
-#content8-20 .mbr-section-title {
-  text-align: center;
-  font-family: 'Roboto Slab', serif;
-  color: #efefef;
-  font-size: 24px;
+#social-buttons1-1u .mbr-section-title {
+  color: #ffffff;
 }
 #footer1-1o P {
   text-align: center;
@@ -629,8 +621,19 @@ h6,
 #header3-1q .mbr-section-subtitle {
   color: #000000;
 }
-#social-buttons1-1u .mbr-section-title {
-  color: #ffffff;
+#header3-1q .mbr-section-title {
+  font-size: 24px;
+}
+#content8-20 .mbr-section-title,
+#content8-20 p {
+  text-align: right;
+  color: #fff;
+}
+#content8-20 .mbr-section-title {
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  color: #efefef;
+  font-size: 24px;
 }
 
 #content8-1z .mbr-section-title,
