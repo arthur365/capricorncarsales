@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "HOME",
     "name": "Capricorn Car Sale's ",
     "theme": {
       "name": "mobirise3",
@@ -196,7 +196,7 @@
             }
           },
           "title": "<i>Opening Hours</i>",
-          "text": "Monday       09:30 AM to 05:30 PM<br>Tuesday      09:30 AM to 05:30 PM<br>Wednesday    09:30 AM to 05:30 PM<br>Thursday     09:30 AM to 05:30 PM<br>Friday       09:30 AM to 05:30 PM<br>Saturday     10:30 AM to 04:00 PM<br>Sunday       11:30 AM to 03:00 PM<br><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br><b>Please click or tap tab below to view all our cars and details &nbsp;in stock now.</b><br>",
+          "text": "<b><a href=\"https://arthur365.github.io/capricorncarsales/page4.html\">Advertise your car on this website for just £10 month.</a></b><br>Monday       09:30 AM to 05:30 PM<br>Tuesday      09:30 AM to 05:30 PM<br>Wednesday    09:30 AM to 05:30 PM<br>Thursday     09:30 AM to 05:30 PM<br>Friday       09:30 AM to 05:30 PM<br>Saturday     10:30 AM to 04:00 PM<br>Sunday       11:30 AM to 03:00 PM<br><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br><b>Please click or tap tab below to view all our cars and details &nbsp;in stock now.&nbsp;</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Capricorn car sales &nbsp;eBay Show Room&nbsp;</a>  "
         },
         {
@@ -235,7 +235,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/logo-132x101-132x101.jpg",
                 "image": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
-                "caption": "SOLD",
+                "caption": "SOLD&nbsp;",
                 "active": true,
                 "alt": ""
               },
@@ -328,7 +328,7 @@
             "paddingBottom": 1,
             "bgColor": "#c1c1c1"
           },
-          "text": "<p><b>How it works . </b></p><p><b>Click' or tap' pic to view . Click' yellow right up below car pic to view full car details.</b></p><p><b>Capricorn car sales</b> we are proud to have helped 1000's of customers over the years get in to their new used car quickly, easily and hassle free\n</p><p>We are EXPERTS in Car finance, Prime Low Rates deals if you have never experienced any credit issues. Deals done within the hour. If you have &nbsp;been unfortunate&nbsp;<span style=\"font-size: 1.07rem;\">enough to have experienced credit issues, have poor credit or have a Poor Credit file we are proud to have helped 100's of customers over the years get into a new &nbsp;</span><span style=\"font-size: 1.07rem;\">used car. We have over 30 car's physically in stock to choose from, massive choice, massive savings, and the best finance deals&nbsp;</span><span style=\"font-size: 1.07rem;\">available. Low Deposit's available or why not use your current car in part exchange to help fund your new vehicle? </span></p><p><span style=\"font-size: 1.07rem;\"><b>Finance&nbsp;</b></span><span style=\"font-size: 1.07rem;\"><b>available from as little as £20 A week</b> please <a href=\"https://arthur365.github.io/capricorncarsales/page3.html\"><b>contact us</b></a> today. &nbsp;<a href=\"https://arthur365.github.io/capricorncarsales/page4.html\">Advertise your car on this website</a> for just £10 month.</span></p>",
+          "text": "<p><b>How it works . </b></p><p><b>Click' or tap' pic to view . Click' yellow right up below car pic to view full car details.</b></p><p><b>Capricorn car sales</b> we are proud to have helped 1000's of customers over the years get in to their new used car quickly, easily and hassle free\n</p><p>We are EXPERTS in Car finance, Prime Low Rates deals if you have never experienced any credit issues. Deals done within the hour. If you have &nbsp;been unfortunate&nbsp;<span style=\"font-size: 1.07rem;\">enough to have experienced credit issues, have poor credit or have a Poor Credit file we are proud to have helped 100's of customers over the years get into a new &nbsp;</span><span style=\"font-size: 1.07rem;\">used car. We have over 30 car's physically in stock to choose from, massive choice, massive savings, and the best finance deals&nbsp;</span><span style=\"font-size: 1.07rem;\">available. Low Deposit's available or why not use your current car in part exchange to help fund your new vehicle? </span></p><p><span style=\"font-size: 1.07rem;\"><b>Finance&nbsp;</b></span><span style=\"font-size: 1.07rem;\"><b>available from as little as £20 A week</b> please <a href=\"https://arthur365.github.io/capricorncarsales/page3.html\"><b>contact us</b></a> today. &nbsp;<b><a href=\"https://arthur365.github.io/capricorncarsales/page4.html\">Advertise your car on this website</a> for just £10 month.</b></span></p>",
           "_tags": [
             "Theme"
           ],
