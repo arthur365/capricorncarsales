@@ -59,7 +59,7 @@
             "paddingBottom": 3,
             "showBullets": true,
             "bgColor": "#000000",
-            "timeout": "8",
+            "timeout": "4",
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
