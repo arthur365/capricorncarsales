@@ -1,9 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
 
 
 
@@ -423,17 +425,9 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #fc0e01;
 }
-#msg-box8-1n .mbr-section-title,
-#msg-box8-1n p {
-  color: #fff;
-}
-#msg-box8-1n .mbr-section-title {
-  color: #ffffff;
-  font-size: 32px;
-}
-#msg-box8-1n .mbr-section-title DIV {
-  text-align: center;
-  font-size: 30px;
+#slider-2g H2 {
+  font-size: 36px;
+  font-family: 'Slabo 27px', serif;
 }
 #content5-g .mbr-section-title,
 #content5-g p {

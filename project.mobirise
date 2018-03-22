@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 88,
+    "uniqCompNum": 89,
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
@@ -52,46 +52,59 @@
       },
       "components": [
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "32px"
-            },
-            ".mbr-section-title DIV": {
-              "text-align": "center",
-              "font-size": "30px"
-            }
-          },
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#000000",
+            "timeout": "8",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "WELCOME &nbsp;TO&nbsp;\n<div>CAPRICORN QUALITY USED CAR\n</div><div>SALES IN DEESIDE, NORTH WALES\n</div><div>Flintshire's Premier used car sales company</div>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Capricorn cars would like to apologise for any inconvenience we may of caused you due to Microsoft updates at www.capricorncars.co.uk \n<br>\n<br>Call 01244-818-992",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/splitshire-0014952-1-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "Capricorn car sales",
+                "overlay": true,
+                "contentAlign": "right",
+                "text": "Choose from the large selection of latest pre-own cars.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
           },
-          "title": "<br>WELCOME TO <br>CAPRICORN QUALITY USED CAR  \n<div>SALES IN DEESIDE, NORTH WALES</div>Flintshire's Premier used car sales company<br><div><br></div><div>Capricorn cars would like to apologise for any inconvenience we may of caused you due to Microsoft updates at <a href=\"http://www.capricorncars.co.uk/Pages/default.aspx\">www.capricorncars.co.uk</a>&nbsp;</div><div><br></div><div>Call 01244-818-992</div>",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "articleLayout": false,
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-1n"
+          "_name": "slider",
+          "_anchor": "slider-2g",
+          "_styles": {
+            "H2": {
+              "font-size": "36px",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            }
+          }
         },
         {
           "_styles": {
