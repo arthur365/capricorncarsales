@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 89,
+    "uniqCompNum": 95,
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
@@ -72,7 +72,7 @@
                 "title": "",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Welcome to  \n<br>Capricorn Quailty used car sales in Deeside Flintshire North Wales.<br>Flintshire's Premier used car sales company<br>Just off the Flintshire Bridge.&nbsp;<br><br><br>Call 01244-818-992",
+                "text": "<br>Welcome to  \n<br>Capricorn Quailty used car sales in Deeside Flintshire North Wales.<br>Flintshire's Premier used car sales company<br>Just off the Flintshire Bridge.&nbsp;<br><br><br>Call 01244-818-992",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.5"
               },
@@ -103,6 +103,9 @@
               "font-size": "30px",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+            },
+            "P": {
+              "text-align": "right"
             }
           }
         },
@@ -246,10 +249,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-132x101-132x101.jpg",
-                "image": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
-                "caption": "SOLD&nbsp;",
-                "active": true,
+                "thumb": "@PROJECT_PATH@/assets/images/s-l1600cv-1600x1199-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/s-l1600cv-1600x1199.jpg",
+                "caption": "<a href=\"https://www.ebay.co.uk/itm/192488530839\" target=\"_blank\">Click or tap here  to view on eBay</a>",
+                "active": false,
                 "alt": ""
               },
               {
@@ -257,10 +260,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-132x101-132x101.jpg",
-                "image": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
-                "caption": "SOLD",
-                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/s-l1600lk-1600x1199-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/s-l1600lk-1600x1199.jpg",
+                "caption": "<a href=\"https://www.ebay.co.uk/itm/192474862673\">Click or tap here  to view on eBay</a>",
+                "active": true,
                 "alt": ""
               },
               {
