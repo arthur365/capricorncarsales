@@ -63,7 +63,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -89,6 +89,51 @@
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-own cars.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1618x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<br>Welcome to  \n<br>Capricorn Quailty used car sales in Deeside Flintshire North Wales.<br>Flintshire's Premier used car sales company<br>Just off the Flintshire Bridge.&nbsp;<br><br><br>Call 01244-818-992",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<br>Welcome to  \n<br>Capricorn Quailty used car sales in Deeside Flintshire North Wales.<br>Flintshire's Premier used car sales company<br>Just off the Flintshire Bridge.&nbsp;<br><br><br>Call 01244-818-992",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/car-key-700x500.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<br>Welcome to  \n<br>Capricorn Quailty used car sales in Deeside Flintshire North Wales.<br>Flintshire's Premier used car sales company<br>Just off the Flintshire Bridge.&nbsp;<br><br><br>Call 01244-818-992",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.5"
               }
             ]
           },
@@ -240,7 +285,7 @@
             "paddingTop": 1,
             "paddingBottom": "1",
             "filterBgColor": true,
-            "bgColor": "#1c1010",
+            "bgColor": "#000000",
             "showText": true,
             "filter": false,
             "images": [
