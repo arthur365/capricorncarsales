@@ -168,7 +168,7 @@
           "_params": {
             "showTitle": true,
             "showCaption": true,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "4",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1385.jpg",
@@ -233,7 +233,7 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.9"
           },
           "media": {
             "image": {
