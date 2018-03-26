@@ -11,6 +11,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -444,7 +445,7 @@ h6,
   font-size: 14px;
 }
 #msg-box5-y P {
-  color: #000000;
+  color: #ffffff;
   font-size: 16px;
 }
 #msg-box5-y H3 {
@@ -452,6 +453,15 @@ h6,
 }
 #msg-box5-y I {
   color: #ffffff;
+}
+#gallery3-2q P {
+  text-align: right;
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
+  color: #f3c649;
+}
+#gallery3-2q .mbr-gallery-item > div > span {
+  font-size: 13px;
 }
 #content1-22 P {
   text-align: left;
