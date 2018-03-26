@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "HOME",
     "name": "Capricorn Car Sale's ",
     "theme": {
       "name": "mobirise3",
@@ -217,7 +217,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": "70",
             "paddingTop": "2",
@@ -296,7 +296,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/s-l1600cv-1600x1199-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/s-l1600cv-1600x1199.jpg",
-                "caption": "<a href=\"https://www.ebay.co.uk/itm/192488530839\" target=\"_blank\">Click or tap here  to view on eBay</a>",
+                "caption": "Click or tap here  to view on eBay",
                 "active": false,
                 "alt": ""
               },
@@ -307,7 +307,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/s-l1600lk-1600x1199-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/s-l1600lk-1600x1199.jpg",
-                "caption": "<a href=\"https://www.ebay.co.uk/itm/192474862673\">Click or tap here  to view on eBay</a>",
+                "caption": "Click or tap here  to view on eBay",
                 "active": true,
                 "alt": ""
               },
@@ -318,7 +318,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/kjh-640x480-640x480.jpg",
                 "image": "@PROJECT_PATH@/assets/images/kjh-640x480.jpg",
-                "caption": "<a href=\"https://www.ebay.co.uk/itm/192456006405\" target=\"_blank\">Click or tap here &nbsp;to view on eBay</a><a href=\"https://www.ebay.co.uk/itm/192456006405\" target=\"_blank\"><br></a>",
+                "caption": "Click or tap here &nbsp;to view on eBay<a href=\"https://www.ebay.co.uk/itm/192456006405\" target=\"_blank\"><br></a>",
                 "active": false,
                 "alt": ""
               },
@@ -329,7 +329,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hyf-1600x1199-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/hyf-1600x1199.jpg",
-                "caption": "<a href=\"https://www.ebay.co.uk/itm/192372132019\" target=\"_blank\">Click or tap here  to view on eBay</a>",
+                "caption": "Click or tap here  to view on eBay",
                 "active": false,
                 "alt": ""
               },
@@ -340,7 +340,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hyt-640x480-640x480.jpg",
                 "image": "@PROJECT_PATH@/assets/images/hyt-640x480.jpg",
-                "caption": "<a href=\"https://www.ebay.co.uk/itm/192484006920\" target=\"_blank\">Click or tap here  to view on eBay</a>",
+                "caption": "Click or tap here  to view on eBay",
                 "active": false,
                 "alt": ""
               },
@@ -351,7 +351,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mino-640x480-640x480.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mino-640x480.jpg",
-                "caption": "<a href=\"https://www.ebay.co.uk/itm/192475020572\" target=\"_blank\">Click or tap here  to view on eBay</a>",
+                "caption": "Click or tap here  to view on eBay",
                 "active": false,
                 "alt": ""
               },
@@ -362,7 +362,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/s-l1600-640x480-640x480.jpg",
                 "image": "@PROJECT_PATH@/assets/images/s-l1600-640x480.jpg",
-                "caption": "<a href=\"https://www.ebay.co.uk/itm/192405163474\" target=\"_blank\">Click or tap here  to view on eBay</a>",
+                "caption": "Click or tap here  to view on eBay",
                 "active": false,
                 "alt": ""
               },
@@ -373,7 +373,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/hgf-1600x1199-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/hgf-1600x1199.jpg",
-                "caption": "<a href=\"https://www.ebay.co.uk/itm/192445079605\" target=\"_blank\">Click or tap here  to view on eBay</a>",
+                "caption": "Click or tap here  to view on eBay",
                 "active": false,
                 "alt": ""
               }
@@ -485,11 +485,11 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-u",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
+            "sticky": false,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.85",
@@ -663,11 +663,11 @@
           },
           "_name": "ext.menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
+            "sticky": false,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.85",
@@ -898,11 +898,11 @@
           },
           "_name": "ext.menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
+            "sticky": false,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.85",
@@ -1057,11 +1057,11 @@
           },
           "_name": "ext.menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
+            "sticky": false,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.85",
@@ -1425,11 +1425,11 @@
           },
           "_name": "ext.menu",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
+            "sticky": false,
+            "collapsed": false,
             "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.85",
