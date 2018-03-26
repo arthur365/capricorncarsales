@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 95,
+    "uniqCompNum": 98,
     "versionPublish": "4.6.6",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x97-2.png",
     "noImageResize": "",
@@ -259,129 +259,6 @@
           "title": "<i>Opening Hours</i><br><i>just waiting on email replay.<br></i><br>",
           "text": "<b><a href=\"https://arthur365.github.io/capricorncarsales/page4.html\">Advertise your car on this website for just £10 month.</a></b><br>Monday       09:30 AM to 05:30 PM<br>Tuesday      09:30 AM to 05:30 PM<br>Wednesday    09:30 AM to 05:30 PM<br>Thursday     09:30 AM to 05:30 PM<br>Friday       09:30 AM to 05:30 PM<br>Saturday     10:30 AM to 04:00 PM<br>Sunday       11:30 AM to 03:00 PM<br><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br><b>Please click or tap red tab below to view all our cars and details &nbsp;in stock now.&nbsp;</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Capricorn car sales &nbsp;eBay Show Room&nbsp;</a>  "
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery3",
-          "_styles": {
-            "P": {
-              "text-align": "right",
-              "font-size": "20px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#f3c649"
-            },
-            ".mbr-gallery-item > div > span": {
-              "font-size": "13px"
-            }
-          },
-          "_params": {
-            "showBullets": false,
-            "fullWidth": true,
-            "spacing": 1,
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "filterBgColor": true,
-            "bgColor": "#000000",
-            "showText": true,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/s-l1600cv-1600x1199-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/s-l1600cv-1600x1199.jpg",
-                "caption": "Click or tap here  to view on eBay",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/s-l1600lk-1600x1199-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/s-l1600lk-1600x1199.jpg",
-                "caption": "Click or tap here  to view on eBay",
-                "active": true,
-                "alt": ""
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kjh-640x480-640x480.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kjh-640x480.jpg",
-                "caption": "Click or tap here &nbsp;to view on eBay<a href=\"https://www.ebay.co.uk/itm/192456006405\" target=\"_blank\"><br></a>",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hyf-1600x1199-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/hyf-1600x1199.jpg",
-                "caption": "Click or tap here  to view on eBay",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hyt-640x480-640x480.jpg",
-                "image": "@PROJECT_PATH@/assets/images/hyt-640x480.jpg",
-                "caption": "Click or tap here  to view on eBay",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mino-640x480-640x480.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mino-640x480.jpg",
-                "caption": "Click or tap here  to view on eBay",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/s-l1600-640x480-640x480.jpg",
-                "image": "@PROJECT_PATH@/assets/images/s-l1600-640x480.jpg",
-                "caption": "Click or tap here  to view on eBay",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hgf-1600x1199-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/hgf-1600x1199.jpg",
-                "caption": "Click or tap here  to view on eBay",
-                "active": false,
-                "alt": ""
-              }
-            ]
-          },
-          "_anchor": "gallery3-d",
-          "articleLayout": false,
-          "allItem": "<p><b>All</b><br></p>"
         },
         {
           "_params": {
