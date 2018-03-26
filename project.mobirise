@@ -70,7 +70,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<br>Capricorn Quality used car sales in Deeside Flintshire North Wales.\n<br>Flintshire's Premier used car sales company\n<br>just off the Flintshire Bridge. \n<br><br><br>Call 01244-818-992<br>Email us for a quick reponse.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -85,7 +85,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "Capricorn &nbsp;car &nbsp;sales &nbsp;in &nbsp;Deeside",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "right",
                 "text": "Choose from the large selection of latest pre-own cars.<br>Email us for a quick reponse.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
@@ -99,7 +99,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<br>Welcome to  \n<br>Capricorn Quality used car sales in Deeside Flintshire North Wales.\n<br>Low millage cars for sale. \n<br><br><br>Call 01244-818-992<br>Email us for a quick reponse.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -114,7 +114,7 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<br>Welcome to  \n<br>Capricorn Quailty used car sales in Deeside <b>Part x welcome</b><br><br><br><b>Call 01244-818-992</b><br>Email us for a quick reponse.<b><br></b>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -122,7 +122,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-8-1620x1080.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -137,14 +137,14 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1631x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<br>Welcome to  \n<br>Capricorn Quality used car Finance available<br>Call 01244-818-992<br>Email us for a quick reponse.<br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -165,7 +165,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             "P": {
-              "text-align": "right"
+              "text-align": "left",
+              "color": "#ffffff"
             }
           }
         },

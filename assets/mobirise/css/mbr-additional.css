@@ -430,7 +430,8 @@ h6,
   font-family: 'Slabo 27px', serif;
 }
 #slider-2g P {
-  text-align: right;
+  text-align: left;
+  color: #ffffff;
 }
 #content5-g .mbr-section-title,
 #content5-g p {
