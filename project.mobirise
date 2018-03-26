@@ -203,7 +203,7 @@
               "font-size": "14px"
             },
             "P": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-size": "16px"
             },
             "H3": {
@@ -256,7 +256,7 @@
               "size": 0
             }
           },
-          "title": "<i>Opening Hours</i><br>",
+          "title": "<i>Opening Hours</i><br><i>just waiting on email replay.<br></i><br>",
           "text": "<b><a href=\"https://arthur365.github.io/capricorncarsales/page4.html\">Advertise your car on this website for just £10 month.</a></b><br>Monday       09:30 AM to 05:30 PM<br>Tuesday      09:30 AM to 05:30 PM<br>Wednesday    09:30 AM to 05:30 PM<br>Thursday     09:30 AM to 05:30 PM<br>Friday       09:30 AM to 05:30 PM<br>Saturday     10:30 AM to 04:00 PM<br>Sunday       11:30 AM to 03:00 PM<br><b>AFTER HOURS :APOINTMENTS ARRANGED,</b><br><b>Please click or tap red tab below to view all our cars and details &nbsp;in stock now.&nbsp;</b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Capricorn car sales &nbsp;eBay Show Room&nbsp;</a>  "
         },
