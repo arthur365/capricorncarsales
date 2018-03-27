@@ -11,7 +11,7 @@
 
 @primaryColor: #fc0e01;
 @secondaryColor: #fc0e01;
-@successColor: #fa3429;
+@successColor: #fc0e01;
 @infoColor: #b8312f;
 @warningColor: #faaf40;
 @dangerColor: #f28281;
@@ -272,7 +272,7 @@ P {
 
 #msg-box5-y {
 .btn {
-  font-size: 14px;
+  font-size: 18px;
   font-family: 'Oswald', sans-serif;
 }
 SPAN {
@@ -289,12 +289,9 @@ H3 {
 I {
   color: #ffffff;
 }
-B {
-  color: #000000;
-}
 }
 
-#gallery3-2q {
+#gallery3-d {
 P {
   text-align: right;
   font-size: 20px;
@@ -329,13 +326,13 @@ P {
   color: #ffffff;
 }
 .navbar-toggler {
-  color: #3d8eb9;
+  color: #ffffff;
 }
 .close-icon::before, .close-icon::after {
-  background-color: #3d8eb9;
+  background-color: #ffffff;
 }
 .link, .dropdown-item {
-  color: #3d8eb9;
+  color: #ffffff;
 }
 .link {
   font-size: 0.85rem;
@@ -347,16 +344,16 @@ P {
   color: #fc0e01;
 }
 .link[aria-expanded="true"], .dropdown-menu {
-  background: #090808;
+  background: #000000;
 }
 .nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {
-  background: #1b1a1a!important;
+  background: #000000!important;
 }
 .navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded="true"], .nav-dropdown-sm .dropdown-menu {
-  background: #232121;
+  background: #000000;
 }
 .bg-color.transparent .link {
-  color: #3d8eb9;
+  color: #ffffff;
   transition: none;
 }
 .bg-color.transparent.opened .link {
