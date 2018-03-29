@@ -1,10 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Pacifico:400);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(../../../undefined);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
 
 
 
@@ -261,6 +263,8 @@ H2 {
 }
 P {
   text-align: right;
+  font-size: 25px;
+  font-family: 'Pacifico', handwriting;
 }
 }
 
@@ -288,6 +292,9 @@ H3 {
 }
 I {
   color: #ffffff;
+}
+B {
+  color: #efefef;
 }
 }
 
@@ -318,7 +325,10 @@ P {
 }
 }
 
-#ext_menu-u {
+#facebook-comments-block-1m {
+}
+
+#ext_menu-2o {
 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -368,9 +378,6 @@ P {
 .btn {
   font-size: 13px;
 }
-}
-
-#facebook-comments-block-1m {
 }
 
 #social-buttons1-1u .mbr-section-title {
