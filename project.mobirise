@@ -52,156 +52,6 @@
       },
       "components": [
         {
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#000000",
-            "timeout": "4",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-4-1620x1080.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<br>Capricorn Quality used car sales in Deeside Flintshire North Wales.\n<br>Flintshire's Premier used car sales company\n<br>just off the Flintshire Bridge. \n<br><br><br>Call 01244-818-992<br>Email us for a quick reponse.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/splitshire-0014952-1-2000x1500.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "Capricorn &nbsp;car &nbsp;sales &nbsp;in &nbsp;Deeside",
-                "overlay": true,
-                "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-own cars.<br>Email us for a quick reponse.<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1618x1080.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<br>Welcome to  \n<br>Capricorn Quality used car sales in Deeside Flintshire North Wales.\n<br>Low millage cars for sale. \n<br><br><br>Call 01244-818-992<br>Email us for a quick reponse.<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-7-1620x1080.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<br>Welcome to  \n<br>Capricorn Quailty used car sales in Deeside <b>Part x welcome</b><br><br><br><b>Call 01244-818-992</b><br>Email us for a quick reponse.<b><br></b>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-8-1620x1080.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<br>Welcome to  \n<br>Capricorn Quality used car Finance available<br>Call 01244-818-992<br>Email us for a quick reponse.<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1631x1080.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<br>Welcome to  \n<br>Capricorn Quality used car Finance available<br>Call 01244-818-992<br>Email us for a quick reponse.<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.5"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-2g",
-          "_styles": {
-            "H2": {
-              "font-size": "30px",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            },
-            "P": {
-              "text-align": "right"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-g",
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "2",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1385.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#1c1010",
-            "overlayOpacity": "0.6"
-          },
-          "title": "",
-          "caption": ""
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -276,129 +126,6 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://ebayshowroom.ebaymotorspro.co.uk/emp/showroom.html?cid=H8WENNQYZtmf%2FXEoRBdvwA%3D%3D\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Capricorn car sales &nbsp;eBay Show Room&nbsp;</a>  "
         },
         {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": false,
-            "fullWidth": true,
-            "spacing": 1,
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "filterBgColor": true,
-            "bgColor": "#000000",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/s-l1600cv-1600x1199-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/s-l1600cv-1600x1199.jpg",
-                "caption": "Click or tap here  to view on eBay",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/s-l1600lk-1600x1199-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/s-l1600lk-1600x1199.jpg",
-                "caption": "Click or tap here  to view on eBay",
-                "active": true,
-                "alt": ""
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kjh-640x480-640x480.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kjh-640x480.jpg",
-                "caption": "Click or tap here &nbsp;to view on eBay<a href=\"https://www.ebay.co.uk/itm/192456006405\" target=\"_blank\"><br></a>",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hyf-1600x1199-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/hyf-1600x1199.jpg",
-                "caption": "Click or tap here  to view on eBay",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hyt-640x480-640x480.jpg",
-                "image": "@PROJECT_PATH@/assets/images/hyt-640x480.jpg",
-                "caption": "Click or tap here  to view on eBay",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mino-640x480-640x480.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mino-640x480.jpg",
-                "caption": "Click or tap here  to view on eBay",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/s-l1600-640x480-640x480.jpg",
-                "image": "@PROJECT_PATH@/assets/images/s-l1600-640x480.jpg",
-                "caption": "Click or tap here  to view on eBay",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hgf-1600x1199-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/hgf-1600x1199.jpg",
-                "caption": "Click or tap here  to view on eBay",
-                "active": false,
-                "alt": ""
-              }
-            ]
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "allItem": "<p><b>All</b><br></p>",
-          "_name": "gallery3",
-          "_styles": {
-            "P": {
-              "text-align": "right",
-              "font-size": "20px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#f3c649"
-            },
-            ".mbr-gallery-item > div > span": {
-              "font-size": "13px"
-            }
-          },
-          "_anchor": "gallery3-2q"
-        },
-        {
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -440,96 +167,6 @@
             "overlayOpacity": "0.7"
           },
           "text": "<p><b><i>Mr Glyn Thomas at Capricorn car sales &nbsp;in Deeside Flintshire North Wales//Copyright &nbsp;apply (c) 2018&nbsp;<a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Webpage Admin Arthur365 &nbsp;</a>on behalf &nbsp;</i></b></p><p><b><i>Capricorn Car Sale's in Deeside, Flinshire Small business Website <a href=\"https://arthur365.github.io/businesswebsites/\" target=\"_blank\">Built Here</a></i></b></p>"
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.85rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.921rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#fc0e01!important"
-            },
-            ".btn": {
-              "font-size": "13px"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-u",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#000000",
-            "fontSize": "0.85",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo-132x101.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://arthur365.github.io/capricorncarsales/HOME.html",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">capricorn car sales&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/HOME.html\" aria-expanded=\"false\"><span class=\"mbri-home mbr-iconfont mbr-iconfont-btn\"></span>HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page1.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page3.html\" aria-expanded=\"false\"><span class=\"mbri-letter mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page4.html\" aria-expanded=\"false\"><span class=\"mbri-sale mbr-iconfont mbr-iconfont-btn\"></span>CLASSIFIED ADS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://arthur365.github.io/capricorncarsales/page2.html\" aria-expanded=\"false\"><span class=\"mbri-user mbr-iconfont mbr-iconfont-btn\"></span>LOCATE US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"IN STOCK NOW\">ABOUT US</a></li>"
         },
         {
           "_params": {
@@ -678,12 +315,12 @@
           },
           "_name": "ext.menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": true,
             "sticky": false,
-            "collapsed": true,
-            "transparent": false,
+            "collapsed": false,
+            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.85",
             "fontName": {},
@@ -913,12 +550,12 @@
           },
           "_name": "ext.menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": true,
             "sticky": false,
-            "collapsed": true,
-            "transparent": false,
+            "collapsed": false,
+            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.85",
             "fontName": {},
@@ -1072,12 +709,12 @@
           },
           "_name": "ext.menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": true,
             "sticky": false,
-            "collapsed": true,
-            "transparent": false,
+            "collapsed": false,
+            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.85",
             "fontName": {},
@@ -1440,12 +1077,12 @@
           },
           "_name": "ext.menu",
           "_params": {
-            "logo": true,
-            "showBrand": true,
+            "logo": false,
+            "showBrand": false,
             "hideButtons": true,
             "sticky": false,
-            "collapsed": true,
-            "transparent": false,
+            "collapsed": false,
+            "transparent": true,
             "bgColor": "#000000",
             "fontSize": "0.85",
             "fontName": {},
